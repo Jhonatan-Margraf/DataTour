@@ -187,6 +187,28 @@ export interface DataSourceMeta {
   mainMetricValue: string;
 }
 
+// ─── Equipe / Pontos Turísticos ─────────────────────────────────────────────
+
+export type TeamRole = 'guia' | 'segurança' | 'operacional' | 'atendimento' | 'coordenador';
+export type TeamStatus = 'alocado' | 'disponivel' | 'folga';
+
+export interface TeamMember {
+  id: string;
+  name: string;
+  role: TeamRole;
+  status: TeamStatus;
+  locationId?: string;
+  languages?: string[];
+}
+
+export interface TeamLocation {
+  id: string;
+  label: string;
+  maxCapacity: number;
+  expectedFlow: number;
+  flowLevel: 'alto' | 'médio' | 'baixo';
+}
+
 // ─── Alertas / Ocorrências ──────────────────────────────────────────────────
 
 export type AlertLevel = 'info' | 'warning' | 'critical';

@@ -6,6 +6,7 @@ import { PredictionPage } from "./pages/PredictionPage";
 import { FeedbackPage } from "./pages/FeedbackPage";
 import { DataSourcesPage } from "./pages/DataSourcesPage";
 import { ProfilePage } from "./pages/ProfilePage";
+import { TeamPage } from "./pages/TeamPage";
 
 // LOGIN DESATIVADO — rota preservada mas não acessível pelo fluxo normal
 // Para reativar: remova o redirect abaixo e restaure o handleLogout no DashboardLayout
@@ -21,6 +22,7 @@ export const router = createBrowserRouter([
     children: [
       { index: true, Component: OverviewPage },
       { path: "prediction", Component: PredictionPage },
+      { path: "equipe", Component: TeamPage },
       { path: "feedback", Component: FeedbackPage },
       { path: "sources", Component: DataSourcesPage },
       { path: "profile", Component: ProfilePage },

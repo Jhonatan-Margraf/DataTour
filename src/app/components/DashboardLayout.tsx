@@ -3,6 +3,7 @@ import { Outlet, NavLink } from "react-router";
 import {
   LayoutDashboard,
   TrendingUp,
+  Users2,
   Database,
   MessageSquare,
   User,
@@ -27,6 +28,7 @@ export function DashboardLayout() {
   const navItems = [
     { to: "/", label: "Visão Geral", icon: LayoutDashboard, end: true },
     { to: "/prediction", label: "Predição", icon: TrendingUp },
+    { to: "/equipe", label: "Equipe", icon: Users2 },
     { to: "/feedback", label: "Feedbacks", icon: MessageSquare },
     { to: "/sources", label: "Fontes de Dados", icon: Database },
     { to: "/profile", label: "Perfil", icon: User },
