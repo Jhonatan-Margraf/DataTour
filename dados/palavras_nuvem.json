@@ -1,0 +1,1562 @@
+{
+  "metadata": {
+    "total_palavras": 194,
+    "data_geracao": "2026-04-11",
+    "fonte": "Análise de tópicos - Itaipu Iluminada",
+    "descricao": "Palavras-chave extraídas dos comentários com frequência e sentimento"
+  },
+  "palavras": [
+    {
+      "palavra": "fila",
+      "frequencia": 228,
+      "topico_id": "[0, 5, 15, 18, 39]",
+      "sentimento": "positivo",
+      "positivos": 163,
+      "negativos": 63
+    },
+    {
+      "palavra": "muita",
+      "frequencia": 225,
+      "topico_id": "[0, 5, 6, 25]",
+      "sentimento": "positivo",
+      "positivos": 175,
+      "negativos": 48
+    },
+    {
+      "palavra": "beleza",
+      "frequencia": 199,
+      "topico_id": "[0, 22, 29, 32]",
+      "sentimento": "positivo",
+      "positivos": 152,
+      "negativos": 45
+    },
+    {
+      "palavra": "guardas",
+      "frequencia": 190,
+      "topico_id": "[0, 14, 17]",
+      "sentimento": "positivo",
+      "positivos": 147,
+      "negativos": 40
+    },
+    {
+      "palavra": "agilidade",
+      "frequencia": 185,
+      "topico_id": "[0, 23, 35]",
+      "sentimento": "positivo",
+      "positivos": 132,
+      "negativos": 45
+    },
+    {
+      "palavra": "transporte",
+      "frequencia": 182,
+      "topico_id": "[0, 29, 42]",
+      "sentimento": "positivo",
+      "positivos": 134,
+      "negativos": 45
+    },
+    {
+      "palavra": "amei",
+      "frequencia": 173,
+      "topico_id": "[0, 16]",
+      "sentimento": "positivo",
+      "positivos": 130,
+      "negativos": 41
+    },
+    {
+      "palavra": "educação",
+      "frequencia": 172,
+      "topico_id": "[0, 21]",
+      "sentimento": "positivo",
+      "positivos": 116,
+      "negativos": 54
+    },
+    {
+      "palavra": "mano",
+      "frequencia": 108,
+      "topico_id": "[6, 7, 8, 14, 40, 42]",
+      "sentimento": "positivo",
+      "positivos": 106,
+      "negativos": 0
+    },
+    {
+      "palavra": "top demais",
+      "frequencia": 103,
+      "topico_id": "[4, 8, 19, 21, 38, 40]",
+      "sentimento": "positivo",
+      "positivos": 80,
+      "negativos": 22
+    },
+    {
+      "palavra": "recomendo",
+      "frequencia": 88,
+      "topico_id": "[12, 13, 19, 32, 40, 42]",
+      "sentimento": "positivo",
+      "positivos": 87,
+      "negativos": 0
+    },
+    {
+      "palavra": "senti",
+      "frequencia": 74,
+      "topico_id": "[1, 4, 41]",
+      "sentimento": "negativo",
+      "positivos": 30,
+      "negativos": 42
+    },
+    {
+      "palavra": "impecável",
+      "frequencia": 69,
+      "topico_id": "[7, 10, 27, 33]",
+      "sentimento": "positivo",
+      "positivos": 55,
+      "negativos": 14
+    },
+    {
+      "palavra": "gente",
+      "frequencia": 67,
+      "topico_id": "[6, 23, 25, 39]",
+      "sentimento": "positivo",
+      "positivos": 56,
+      "negativos": 11
+    },
+    {
+      "palavra": "transbordando",
+      "frequencia": 65,
+      "topico_id": "[2, 3]",
+      "sentimento": "negativo",
+      "positivos": 43,
+      "negativos": 22
+    },
+    {
+      "palavra": "sério",
+      "frequencia": 65,
+      "topico_id": "[12, 13, 21, 32]",
+      "sentimento": "positivo",
+      "positivos": 50,
+      "negativos": 15
+    },
+    {
+      "palavra": "nenhuma lixeira",
+      "frequencia": 65,
+      "topico_id": "[2, 3]",
+      "sentimento": "negativo",
+      "positivos": 43,
+      "negativos": 22
+    },
+    {
+      "palavra": "lixeira",
+      "frequencia": 65,
+      "topico_id": "[2, 3]",
+      "sentimento": "negativo",
+      "positivos": 43,
+      "negativos": 22
+    },
+    {
+      "palavra": "poxa",
+      "frequencia": 64,
+      "topico_id": "[13, 16, 22, 25]",
+      "sentimento": "positivo",
+      "positivos": 62,
+      "negativos": 2
+    },
+    {
+      "palavra": "clara",
+      "frequencia": 63,
+      "topico_id": "[1, 22, 36]",
+      "sentimento": "negativo",
+      "positivos": 27,
+      "negativos": 35
+    },
+    {
+      "palavra": "arrependi",
+      "frequencia": 61,
+      "topico_id": "[6, 12, 16]",
+      "sentimento": "positivo",
+      "positivos": 59,
+      "negativos": 2
+    },
+    {
+      "palavra": "embarque",
+      "frequencia": 61,
+      "topico_id": "[11, 23, 30, 35]",
+      "sentimento": "positivo",
+      "positivos": 46,
+      "negativos": 7
+    },
+    {
+      "palavra": "top",
+      "frequencia": 59,
+      "topico_id": "[8, 21, 38, 40]",
+      "sentimento": "positivo",
+      "positivos": 44,
+      "negativos": 15
+    },
+    {
+      "palavra": "excelente",
+      "frequencia": 57,
+      "topico_id": "[5, 14, 33]",
+      "sentimento": "positivo",
+      "positivos": 47,
+      "negativos": 9
+    },
+    {
+      "palavra": "tranquilo",
+      "frequencia": 57,
+      "topico_id": "[4, 17, 34]",
+      "sentimento": "positivo",
+      "positivos": 44,
+      "negativos": 12
+    },
+    {
+      "palavra": "nada",
+      "frequencia": 55,
+      "topico_id": "[4, 5]",
+      "sentimento": "positivo",
+      "positivos": 38,
+      "negativos": 16
+    },
+    {
+      "palavra": "grades",
+      "frequencia": 55,
+      "topico_id": "[6, 19, 33]",
+      "sentimento": "positivo",
+      "positivos": 55,
+      "negativos": 0
+    },
+    {
+      "palavra": "tempo",
+      "frequencia": 54,
+      "topico_id": "[5, 16, 41]",
+      "sentimento": "positivo",
+      "positivos": 42,
+      "negativos": 11
+    },
+    {
+      "palavra": "cara",
+      "frequencia": 54,
+      "topico_id": "[21, 25, 31, 39]",
+      "sentimento": "negativo",
+      "positivos": 15,
+      "negativos": 39
+    },
+    {
+      "palavra": "monitores",
+      "frequencia": 53,
+      "topico_id": "[3, 8]",
+      "sentimento": "positivo",
+      "positivos": 52,
+      "negativos": 1
+    },
+    {
+      "palavra": "evitou",
+      "frequencia": 53,
+      "topico_id": "[22, 30, 36, 43]",
+      "sentimento": "positivo",
+      "positivos": 39,
+      "negativos": 11
+    },
+    {
+      "palavra": "segurança",
+      "frequencia": 52,
+      "topico_id": "[1, 14]",
+      "sentimento": "negativo",
+      "positivos": 16,
+      "negativos": 35
+    },
+    {
+      "palavra": "nota 10",
+      "frequencia": 52,
+      "topico_id": "[7, 20, 26]",
+      "sentimento": "positivo",
+      "positivos": 36,
+      "negativos": 15
+    },
+    {
+      "palavra": "limpeza",
+      "frequencia": 50,
+      "topico_id": "[2, 15]",
+      "sentimento": "negativo",
+      "positivos": 29,
+      "negativos": 21
+    },
+    {
+      "palavra": "passarelas",
+      "frequencia": 49,
+      "topico_id": "[2, 20]",
+      "sentimento": "negativo",
+      "positivos": 13,
+      "negativos": 36
+    },
+    {
+      "palavra": "proteção",
+      "frequencia": 48,
+      "topico_id": "[6, 7]",
+      "sentimento": "positivo",
+      "positivos": 48,
+      "negativos": 0
+    },
+    {
+      "palavra": "valeu",
+      "frequencia": 48,
+      "topico_id": "[10, 25, 36]",
+      "sentimento": "positivo",
+      "positivos": 47,
+      "negativos": 0
+    },
+    {
+      "palavra": "olha",
+      "frequencia": 48,
+      "topico_id": "[7, 22, 39]",
+      "sentimento": "positivo",
+      "positivos": 37,
+      "negativos": 11
+    },
+    {
+      "palavra": "fiquei",
+      "frequencia": 48,
+      "topico_id": "[11, 23, 28]",
+      "sentimento": "positivo",
+      "positivos": 40,
+      "negativos": 8
+    },
+    {
+      "palavra": "incrível",
+      "frequencia": 45,
+      "topico_id": "[3, 31]",
+      "sentimento": "positivo",
+      "positivos": 31,
+      "negativos": 14
+    },
+    {
+      "palavra": "lixo",
+      "frequencia": 45,
+      "topico_id": "[2, 37]",
+      "sentimento": "negativo",
+      "positivos": 14,
+      "negativos": 31
+    },
+    {
+      "palavra": "nenhum",
+      "frequencia": 45,
+      "topico_id": "[13, 27, 34]",
+      "sentimento": "positivo",
+      "positivos": 27,
+      "negativos": 18
+    },
+    {
+      "palavra": "demais",
+      "frequencia": 44,
+      "topico_id": "[8, 38, 40]",
+      "sentimento": "positivo",
+      "positivos": 44,
+      "negativos": 0
+    },
+    {
+      "palavra": "confiável",
+      "frequencia": 44,
+      "topico_id": "[4, 17]",
+      "sentimento": "positivo",
+      "positivos": 35,
+      "negativos": 8
+    },
+    {
+      "palavra": "seguro",
+      "frequencia": 44,
+      "topico_id": "[4, 17]",
+      "sentimento": "positivo",
+      "positivos": 35,
+      "negativos": 8
+    },
+    {
+      "palavra": "eficiente",
+      "frequencia": 43,
+      "topico_id": "[3, 42]",
+      "sentimento": "positivo",
+      "positivos": 41,
+      "negativos": 1
+    },
+    {
+      "palavra": "tumulto",
+      "frequencia": 43,
+      "topico_id": "[18, 30, 35]",
+      "sentimento": "positivo",
+      "positivos": 24,
+      "negativos": 11
+    },
+    {
+      "palavra": "rapidez",
+      "frequencia": 42,
+      "topico_id": "[26, 28, 30]",
+      "sentimento": "positivo",
+      "positivos": 30,
+      "negativos": 9
+    },
+    {
+      "palavra": "maravilhosa",
+      "frequencia": 42,
+      "topico_id": "[4, 26]",
+      "sentimento": "positivo",
+      "positivos": 33,
+      "negativos": 7
+    },
+    {
+      "palavra": "equipe",
+      "frequencia": 42,
+      "topico_id": "[15, 31, 38]",
+      "sentimento": "positivo",
+      "positivos": 29,
+      "negativos": 13
+    },
+    {
+      "palavra": "confiança",
+      "frequencia": 41,
+      "topico_id": "[6, 25]",
+      "sentimento": "positivo",
+      "positivos": 41,
+      "negativos": 0
+    },
+    {
+      "palavra": "tivemos",
+      "frequencia": 41,
+      "topico_id": "[5, 29]",
+      "sentimento": "positivo",
+      "positivos": 26,
+      "negativos": 15
+    },
+    {
+      "palavra": "pena",
+      "frequencia": 40,
+      "topico_id": "[25, 36, 38]",
+      "sentimento": "positivo",
+      "positivos": 39,
+      "negativos": 0
+    },
+    {
+      "palavra": "valeu pena",
+      "frequencia": 40,
+      "topico_id": "[25, 36, 38]",
+      "sentimento": "positivo",
+      "positivos": 39,
+      "negativos": 0
+    },
+    {
+      "palavra": "sinalização",
+      "frequencia": 39,
+      "topico_id": "[22, 36, 39]",
+      "sentimento": "positivo",
+      "positivos": 27,
+      "negativos": 11
+    },
+    {
+      "palavra": "quatis",
+      "frequencia": 37,
+      "topico_id": "[8, 18]",
+      "sentimento": "positivo",
+      "positivos": 33,
+      "negativos": 4
+    },
+    {
+      "palavra": "logística",
+      "frequencia": 37,
+      "topico_id": "[23, 42, 43]",
+      "sentimento": "positivo",
+      "positivos": 26,
+      "negativos": 10
+    },
+    {
+      "palavra": "pressa guia",
+      "frequencia": 35,
+      "topico_id": "[1]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 35
+    },
+    {
+      "palavra": "entrada",
+      "frequencia": 35,
+      "topico_id": "[10, 24]",
+      "sentimento": "positivo",
+      "positivos": 34,
+      "negativos": 1
+    },
+    {
+      "palavra": "falta",
+      "frequencia": 35,
+      "topico_id": "[1]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 35
+    },
+    {
+      "palavra": "piso",
+      "frequencia": 35,
+      "topico_id": "[12, 20]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 15
+    },
+    {
+      "palavra": "iluminação",
+      "frequencia": 35,
+      "topico_id": "[13, 14]",
+      "sentimento": "positivo",
+      "positivos": 34,
+      "negativos": 0
+    },
+    {
+      "palavra": "risco",
+      "frequencia": 35,
+      "topico_id": "[12, 18]",
+      "sentimento": "positivo",
+      "positivos": 31,
+      "negativos": 4
+    },
+    {
+      "palavra": "estragou",
+      "frequencia": 35,
+      "topico_id": "[1]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 35
+    },
+    {
+      "palavra": "desorganização",
+      "frequencia": 35,
+      "topico_id": "[1]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 35
+    },
+    {
+      "palavra": "antiderrapante",
+      "frequencia": 35,
+      "topico_id": "[12, 20]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 15
+    },
+    {
+      "palavra": "guia estragou",
+      "frequencia": 35,
+      "topico_id": "[1]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 35
+    },
+    {
+      "palavra": "ingresso",
+      "frequencia": 34,
+      "topico_id": "[9, 28]",
+      "sentimento": "negativo",
+      "positivos": 14,
+      "negativos": 20
+    },
+    {
+      "palavra": "sujeira",
+      "frequencia": 33,
+      "topico_id": "[2]",
+      "sentimento": "negativo",
+      "positivos": 12,
+      "negativos": 21
+    },
+    {
+      "palavra": "fura fila",
+      "frequencia": 33,
+      "topico_id": "[15, 18]",
+      "sentimento": "positivo",
+      "positivos": 29,
+      "negativos": 4
+    },
+    {
+      "palavra": "fura",
+      "frequencia": 33,
+      "topico_id": "[15, 18]",
+      "sentimento": "positivo",
+      "positivos": 29,
+      "negativos": 4
+    },
+    {
+      "palavra": "alta",
+      "frequencia": 33,
+      "topico_id": "[2]",
+      "sentimento": "negativo",
+      "positivos": 12,
+      "negativos": 21
+    },
+    {
+      "palavra": "triagem",
+      "frequencia": 33,
+      "topico_id": "[11, 29]",
+      "sentimento": "positivo",
+      "positivos": 27,
+      "negativos": 6
+    },
+    {
+      "palavra": "ninguém",
+      "frequencia": 32,
+      "topico_id": "[19, 20]",
+      "sentimento": "positivo",
+      "positivos": 17,
+      "negativos": 15
+    },
+    {
+      "palavra": "lixeira transbordando",
+      "frequencia": 32,
+      "topico_id": "[3]",
+      "sentimento": "positivo",
+      "positivos": 31,
+      "negativos": 1
+    },
+    {
+      "palavra": "organização",
+      "frequencia": 32,
+      "topico_id": "[11, 33]",
+      "sentimento": "positivo",
+      "positivos": 32,
+      "negativos": 0
+    },
+    {
+      "palavra": "vigilância",
+      "frequencia": 32,
+      "topico_id": "[17, 19]",
+      "sentimento": "positivo",
+      "positivos": 31,
+      "negativos": 1
+    },
+    {
+      "palavra": "garantiu",
+      "frequencia": 32,
+      "topico_id": "[19, 20]",
+      "sentimento": "positivo",
+      "positivos": 17,
+      "negativos": 15
+    },
+    {
+      "palavra": "burocracia",
+      "frequencia": 32,
+      "topico_id": "[3]",
+      "sentimento": "positivo",
+      "positivos": 31,
+      "negativos": 1
+    },
+    {
+      "palavra": "garantiu ninguém",
+      "frequencia": 32,
+      "topico_id": "[19, 20]",
+      "sentimento": "positivo",
+      "positivos": 17,
+      "negativos": 15
+    },
+    {
+      "palavra": "monitor",
+      "frequencia": 31,
+      "topico_id": "[18, 21]",
+      "sentimento": "positivo",
+      "positivos": 12,
+      "negativos": 19
+    },
+    {
+      "palavra": "bah",
+      "frequencia": 31,
+      "topico_id": "[13, 31]",
+      "sentimento": "positivo",
+      "positivos": 18,
+      "negativos": 13
+    },
+    {
+      "palavra": "multidão",
+      "frequencia": 31,
+      "topico_id": "[18, 23]",
+      "sentimento": "positivo",
+      "positivos": 27,
+      "negativos": 4
+    },
+    {
+      "palavra": "constante",
+      "frequencia": 30,
+      "topico_id": "[19, 26]",
+      "sentimento": "positivo",
+      "positivos": 29,
+      "negativos": 0
+    },
+    {
+      "palavra": "totalmente",
+      "frequencia": 28,
+      "topico_id": "[4]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 7
+    },
+    {
+      "palavra": "sinalização clara",
+      "frequencia": 28,
+      "topico_id": "[22, 36]",
+      "sentimento": "positivo",
+      "positivos": 27,
+      "negativos": 0
+    },
+    {
+      "palavra": "perfeita",
+      "frequencia": 28,
+      "topico_id": "[23, 34]",
+      "sentimento": "positivo",
+      "positivos": 24,
+      "negativos": 4
+    },
+    {
+      "palavra": "zero",
+      "frequencia": 27,
+      "topico_id": "[29, 34]",
+      "sentimento": "positivo",
+      "positivos": 17,
+      "negativos": 10
+    },
+    {
+      "palavra": "tirar",
+      "frequencia": 27,
+      "topico_id": "[5]",
+      "sentimento": "positivo",
+      "positivos": 18,
+      "negativos": 9
+    },
+    {
+      "palavra": "maravilhoso",
+      "frequencia": 27,
+      "topico_id": "[5]",
+      "sentimento": "positivo",
+      "positivos": 18,
+      "negativos": 9
+    },
+    {
+      "palavra": "controle",
+      "frequencia": 27,
+      "topico_id": "[30, 35]",
+      "sentimento": "positivo",
+      "positivos": 12,
+      "negativos": 7
+    },
+    {
+      "palavra": "orgânico",
+      "frequencia": 26,
+      "topico_id": "[27, 37]",
+      "sentimento": "negativo",
+      "positivos": 2,
+      "negativos": 24
+    },
+    {
+      "palavra": "total",
+      "frequencia": 26,
+      "topico_id": "[6]",
+      "sentimento": "positivo",
+      "positivos": 26,
+      "negativos": 0
+    },
+    {
+      "palavra": "teve",
+      "frequencia": 26,
+      "topico_id": "[24, 41]",
+      "sentimento": "positivo",
+      "positivos": 24,
+      "negativos": 1
+    },
+    {
+      "palavra": "pessoas",
+      "frequencia": 26,
+      "topico_id": "[33, 34]",
+      "sentimento": "positivo",
+      "positivos": 22,
+      "negativos": 4
+    },
+    {
+      "palavra": "super",
+      "frequencia": 26,
+      "topico_id": "[29, 38]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 6
+    },
+    {
+      "palavra": "qr code",
+      "frequencia": 26,
+      "topico_id": "[24, 43]",
+      "sentimento": "positivo",
+      "positivos": 15,
+      "negativos": 11
+    },
+    {
+      "palavra": "restaurante",
+      "frequencia": 26,
+      "topico_id": "[27, 37]",
+      "sentimento": "negativo",
+      "positivos": 2,
+      "negativos": 24
+    },
+    {
+      "palavra": "code",
+      "frequencia": 26,
+      "topico_id": "[24, 43]",
+      "sentimento": "positivo",
+      "positivos": 15,
+      "negativos": 11
+    },
+    {
+      "palavra": "mesas",
+      "frequencia": 26,
+      "topico_id": "[27, 37]",
+      "sentimento": "negativo",
+      "positivos": 2,
+      "negativos": 24
+    },
+    {
+      "palavra": "orgânico deixado",
+      "frequencia": 26,
+      "topico_id": "[27, 37]",
+      "sentimento": "negativo",
+      "positivos": 2,
+      "negativos": 24
+    },
+    {
+      "palavra": "fluxo",
+      "frequencia": 26,
+      "topico_id": "[33, 34]",
+      "sentimento": "positivo",
+      "positivos": 22,
+      "negativos": 4
+    },
+    {
+      "palavra": "deixado",
+      "frequencia": 26,
+      "topico_id": "[27, 37]",
+      "sentimento": "negativo",
+      "positivos": 2,
+      "negativos": 24
+    },
+    {
+      "palavra": "ritmo",
+      "frequencia": 25,
+      "topico_id": "[26, 41]",
+      "sentimento": "positivo",
+      "positivos": 23,
+      "negativos": 0
+    },
+    {
+      "palavra": "perder",
+      "frequencia": 24,
+      "topico_id": "[35, 40]",
+      "sentimento": "negativo",
+      "positivos": 12,
+      "negativos": 6
+    },
+    {
+      "palavra": "nota",
+      "frequencia": 24,
+      "topico_id": "[35, 42]",
+      "sentimento": "negativo",
+      "positivos": 11,
+      "negativos": 6
+    },
+    {
+      "palavra": "nenhuma",
+      "frequencia": 22,
+      "topico_id": "[40, 41]",
+      "sentimento": "positivo",
+      "positivos": 21,
+      "negativos": 0
+    },
+    {
+      "palavra": "turistas",
+      "frequencia": 22,
+      "topico_id": "[7]",
+      "sentimento": "positivo",
+      "positivos": 22,
+      "negativos": 0
+    },
+    {
+      "palavra": "estrutura",
+      "frequencia": 22,
+      "topico_id": "[7]",
+      "sentimento": "positivo",
+      "positivos": 22,
+      "negativos": 0
+    },
+    {
+      "palavra": "pânico",
+      "frequencia": 21,
+      "topico_id": "[8]",
+      "sentimento": "positivo",
+      "positivos": 21,
+      "negativos": 0
+    },
+    {
+      "palavra": "voltei",
+      "frequencia": 21,
+      "topico_id": "[8]",
+      "sentimento": "positivo",
+      "positivos": 21,
+      "negativos": 0
+    },
+    {
+      "palavra": "educado",
+      "frequencia": 20,
+      "topico_id": "[9]",
+      "sentimento": "negativo",
+      "positivos": 8,
+      "negativos": 12
+    },
+    {
+      "palavra": "custo benefício",
+      "frequencia": 20,
+      "topico_id": "[10]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 0
+    },
+    {
+      "palavra": "custo",
+      "frequencia": 20,
+      "topico_id": "[10]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 0
+    },
+    {
+      "palavra": "benefício",
+      "frequencia": 20,
+      "topico_id": "[10]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 0
+    },
+    {
+      "palavra": "bebê",
+      "frequencia": 20,
+      "topico_id": "[9]",
+      "sentimento": "negativo",
+      "positivos": 8,
+      "negativos": 12
+    },
+    {
+      "palavra": "carrinhos bebê",
+      "frequencia": 20,
+      "topico_id": "[9]",
+      "sentimento": "negativo",
+      "positivos": 8,
+      "negativos": 12
+    },
+    {
+      "palavra": "recompensa",
+      "frequencia": 20,
+      "topico_id": "[9]",
+      "sentimento": "negativo",
+      "positivos": 8,
+      "negativos": 12
+    },
+    {
+      "palavra": "fim",
+      "frequencia": 20,
+      "topico_id": "[10]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 0
+    },
+    {
+      "palavra": "recompensa visual",
+      "frequencia": 20,
+      "topico_id": "[9]",
+      "sentimento": "negativo",
+      "positivos": 8,
+      "negativos": 12
+    },
+    {
+      "palavra": "visual",
+      "frequencia": 20,
+      "topico_id": "[9]",
+      "sentimento": "negativo",
+      "positivos": 8,
+      "negativos": 12
+    },
+    {
+      "palavra": "pacote",
+      "frequencia": 20,
+      "topico_id": "[10]",
+      "sentimento": "positivo",
+      "positivos": 20,
+      "negativos": 0
+    },
+    {
+      "palavra": "exploração",
+      "frequencia": 20,
+      "topico_id": "[9]",
+      "sentimento": "negativo",
+      "positivos": 8,
+      "negativos": 12
+    },
+    {
+      "palavra": "molhado",
+      "frequencia": 19,
+      "topico_id": "[12]",
+      "sentimento": "positivo",
+      "positivos": 19,
+      "negativos": 0
+    },
+    {
+      "palavra": "ausência",
+      "frequencia": 19,
+      "topico_id": "[11]",
+      "sentimento": "positivo",
+      "positivos": 19,
+      "negativos": 0
+    },
+    {
+      "palavra": "feliz",
+      "frequencia": 19,
+      "topico_id": "[11]",
+      "sentimento": "positivo",
+      "positivos": 19,
+      "negativos": 0
+    },
+    {
+      "palavra": "cansaço",
+      "frequencia": 19,
+      "topico_id": "[11]",
+      "sentimento": "positivo",
+      "positivos": 19,
+      "negativos": 0
+    },
+    {
+      "palavra": "escorregão",
+      "frequencia": 19,
+      "topico_id": "[12]",
+      "sentimento": "positivo",
+      "positivos": 19,
+      "negativos": 0
+    },
+    {
+      "palavra": "confusão",
+      "frequencia": 19,
+      "topico_id": "[11]",
+      "sentimento": "positivo",
+      "positivos": 19,
+      "negativos": 0
+    },
+    {
+      "palavra": "usina",
+      "frequencia": 18,
+      "topico_id": "[13]",
+      "sentimento": "positivo",
+      "positivos": 18,
+      "negativos": 0
+    },
+    {
+      "palavra": "trecho",
+      "frequencia": 18,
+      "topico_id": "[13]",
+      "sentimento": "positivo",
+      "positivos": 18,
+      "negativos": 0
+    },
+    {
+      "palavra": "primeiro",
+      "frequencia": 17,
+      "topico_id": "[14]",
+      "sentimento": "positivo",
+      "positivos": 16,
+      "negativos": 0
+    },
+    {
+      "palavra": "cobrado",
+      "frequencia": 17,
+      "topico_id": "[15]",
+      "sentimento": "positivo",
+      "positivos": 17,
+      "negativos": 0
+    },
+    {
+      "palavra": "tudo",
+      "frequencia": 17,
+      "topico_id": "[15]",
+      "sentimento": "positivo",
+      "positivos": 17,
+      "negativos": 0
+    },
+    {
+      "palavra": "justíssimo",
+      "frequencia": 17,
+      "topico_id": "[15]",
+      "sentimento": "positivo",
+      "positivos": 17,
+      "negativos": 0
+    },
+    {
+      "palavra": "fantástico",
+      "frequencia": 17,
+      "topico_id": "[14]",
+      "sentimento": "positivo",
+      "positivos": 16,
+      "negativos": 0
+    },
+    {
+      "palavra": "lugar",
+      "frequencia": 17,
+      "topico_id": "[14]",
+      "sentimento": "positivo",
+      "positivos": 16,
+      "negativos": 0
+    },
+    {
+      "palavra": "perto",
+      "frequencia": 16,
+      "topico_id": "[16]",
+      "sentimento": "positivo",
+      "positivos": 14,
+      "negativos": 2
+    },
+    {
+      "palavra": "família",
+      "frequencia": 16,
+      "topico_id": "[17]",
+      "sentimento": "positivo",
+      "positivos": 15,
+      "negativos": 1
+    },
+    {
+      "palavra": "cuidado",
+      "frequencia": 16,
+      "topico_id": "[16]",
+      "sentimento": "positivo",
+      "positivos": 14,
+      "negativos": 2
+    },
+    {
+      "palavra": "trajeto",
+      "frequencia": 16,
+      "topico_id": "[17]",
+      "sentimento": "positivo",
+      "positivos": 15,
+      "negativos": 1
+    },
+    {
+      "palavra": "protegido",
+      "frequencia": 16,
+      "topico_id": "[17]",
+      "sentimento": "positivo",
+      "positivos": 15,
+      "negativos": 1
+    },
+    {
+      "palavra": "extrema",
+      "frequencia": 15,
+      "topico_id": "[21]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 15
+    },
+    {
+      "palavra": "nem",
+      "frequencia": 15,
+      "topico_id": "[23]",
+      "sentimento": "positivo",
+      "positivos": 15,
+      "negativos": 0
+    },
+    {
+      "palavra": "perfeitamente",
+      "frequencia": 15,
+      "topico_id": "[22]",
+      "sentimento": "positivo",
+      "positivos": 15,
+      "negativos": 0
+    },
+    {
+      "palavra": "fomos",
+      "frequencia": 15,
+      "topico_id": "[21]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 15
+    },
+    {
+      "palavra": "conferência qr",
+      "frequencia": 15,
+      "topico_id": "[24]",
+      "sentimento": "positivo",
+      "positivos": 14,
+      "negativos": 1
+    },
+    {
+      "palavra": "bebedouros",
+      "frequencia": 15,
+      "topico_id": "[24]",
+      "sentimento": "positivo",
+      "positivos": 14,
+      "negativos": 1
+    },
+    {
+      "palavra": "conferência",
+      "frequencia": 15,
+      "topico_id": "[24]",
+      "sentimento": "positivo",
+      "positivos": 14,
+      "negativos": 1
+    },
+    {
+      "palavra": "centro visitantes",
+      "frequencia": 14,
+      "topico_id": "[28]",
+      "sentimento": "negativo",
+      "positivos": 6,
+      "negativos": 8
+    },
+    {
+      "palavra": "espera",
+      "frequencia": 14,
+      "topico_id": "[29]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 6
+    },
+    {
+      "palavra": "chão",
+      "frequencia": 14,
+      "topico_id": "[27]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 14
+    },
+    {
+      "palavra": "causou",
+      "frequencia": 14,
+      "topico_id": "[28]",
+      "sentimento": "negativo",
+      "positivos": 6,
+      "negativos": 8
+    },
+    {
+      "palavra": "caminhada",
+      "frequencia": 14,
+      "topico_id": "[26]",
+      "sentimento": "positivo",
+      "positivos": 13,
+      "negativos": 0
+    },
+    {
+      "palavra": "visitantes",
+      "frequencia": 14,
+      "topico_id": "[28]",
+      "sentimento": "negativo",
+      "positivos": 6,
+      "negativos": 8
+    },
+    {
+      "palavra": "perfeito",
+      "frequencia": 14,
+      "topico_id": "[26]",
+      "sentimento": "positivo",
+      "positivos": 13,
+      "negativos": 0
+    },
+    {
+      "palavra": "turista",
+      "frequencia": 14,
+      "topico_id": "[28]",
+      "sentimento": "negativo",
+      "positivos": 6,
+      "negativos": 8
+    },
+    {
+      "palavra": "elevador",
+      "frequencia": 14,
+      "topico_id": "[30]",
+      "sentimento": "positivo",
+      "positivos": 11,
+      "negativos": 1
+    },
+    {
+      "palavra": "empurra",
+      "frequencia": 14,
+      "topico_id": "[30]",
+      "sentimento": "positivo",
+      "positivos": 11,
+      "negativos": 1
+    },
+    {
+      "palavra": "dinâmico",
+      "frequencia": 14,
+      "topico_id": "[29]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 6
+    },
+    {
+      "palavra": "empurra empurra",
+      "frequencia": 14,
+      "topico_id": "[30]",
+      "sentimento": "positivo",
+      "positivos": 11,
+      "negativos": 1
+    },
+    {
+      "palavra": "centro",
+      "frequencia": 14,
+      "topico_id": "[28]",
+      "sentimento": "negativo",
+      "positivos": 6,
+      "negativos": 8
+    },
+    {
+      "palavra": "vontade",
+      "frequencia": 13,
+      "topico_id": "[31]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 13
+    },
+    {
+      "palavra": "ônibus",
+      "frequencia": 13,
+      "topico_id": "[35]",
+      "sentimento": "negativo",
+      "positivos": 1,
+      "negativos": 6
+    },
+    {
+      "palavra": "trilhas",
+      "frequencia": 13,
+      "topico_id": "[36]",
+      "sentimento": "positivo",
+      "positivos": 12,
+      "negativos": 0
+    },
+    {
+      "palavra": "fluxo pessoas",
+      "frequencia": 13,
+      "topico_id": "[33]",
+      "sentimento": "positivo",
+      "positivos": 13,
+      "negativos": 0
+    },
+    {
+      "palavra": "má vontade",
+      "frequencia": 13,
+      "topico_id": "[31]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 13
+    },
+    {
+      "palavra": "motorista",
+      "frequencia": 13,
+      "topico_id": "[32]",
+      "sentimento": "positivo",
+      "positivos": 13,
+      "negativos": 0
+    },
+    {
+      "palavra": "sorrindo",
+      "frequencia": 13,
+      "topico_id": "[31]",
+      "sentimento": "negativo",
+      "positivos": 0,
+      "negativos": 13
+    },
+    {
+      "palavra": "engarrafamento pessoas",
+      "frequencia": 13,
+      "topico_id": "[34]",
+      "sentimento": "positivo",
+      "positivos": 9,
+      "negativos": 4
+    },
+    {
+      "palavra": "ajudou",
+      "frequencia": 13,
+      "topico_id": "[32]",
+      "sentimento": "positivo",
+      "positivos": 13,
+      "negativos": 0
+    },
+    {
+      "palavra": "engarrafamento",
+      "frequencia": 13,
+      "topico_id": "[34]",
+      "sentimento": "positivo",
+      "positivos": 9,
+      "negativos": 4
+    },
+    {
+      "palavra": "achei",
+      "frequencia": 13,
+      "topico_id": "[33]",
+      "sentimento": "positivo",
+      "positivos": 13,
+      "negativos": 0
+    },
+    {
+      "palavra": "passeio",
+      "frequencia": 13,
+      "topico_id": "[35]",
+      "sentimento": "negativo",
+      "positivos": 1,
+      "negativos": 6
+    },
+    {
+      "palavra": "idosos",
+      "frequencia": 12,
+      "topico_id": "[38]",
+      "sentimento": "positivo",
+      "positivos": 12,
+      "negativos": 0
+    },
+    {
+      "palavra": "lixo orgânico",
+      "frequencia": 12,
+      "topico_id": "[37]",
+      "sentimento": "negativo",
+      "positivos": 2,
+      "negativos": 10
+    },
+    {
+      "palavra": "raiva",
+      "frequencia": 12,
+      "topico_id": "[37]",
+      "sentimento": "negativo",
+      "positivos": 2,
+      "negativos": 10
+    },
+    {
+      "palavra": "evitou aglomeração",
+      "frequencia": 11,
+      "topico_id": "[43]",
+      "sentimento": "negativo",
+      "positivos": 1,
+      "negativos": 10
+    },
+    {
+      "palavra": "rápida",
+      "frequencia": 11,
+      "topico_id": "[42]",
+      "sentimento": "positivo",
+      "positivos": 10,
+      "negativos": 0
+    },
+    {
+      "palavra": "pressa",
+      "frequencia": 11,
+      "topico_id": "[41]",
+      "sentimento": "positivo",
+      "positivos": 10,
+      "negativos": 0
+    },
+    {
+      "palavra": "correria",
+      "frequencia": 11,
+      "topico_id": "[41]",
+      "sentimento": "positivo",
+      "positivos": 10,
+      "negativos": 0
+    },
+    {
+      "palavra": "experiência",
+      "frequencia": 11,
+      "topico_id": "[41]",
+      "sentimento": "positivo",
+      "positivos": 10,
+      "negativos": 0
+    },
+    {
+      "palavra": "baldeação",
+      "frequencia": 11,
+      "topico_id": "[42]",
+      "sentimento": "positivo",
+      "positivos": 10,
+      "negativos": 0
+    },
+    {
+      "palavra": "aglomeração",
+      "frequencia": 11,
+      "topico_id": "[43]",
+      "sentimento": "negativo",
+      "positivos": 1,
+      "negativos": 10
+    },
+    {
+      "palavra": "guia",
+      "frequencia": 11,
+      "topico_id": "[40]",
+      "sentimento": "positivo",
+      "positivos": 11,
+      "negativos": 0
+    },
+    {
+      "palavra": "olha logística",
+      "frequencia": 11,
+      "topico_id": "[43]",
+      "sentimento": "negativo",
+      "positivos": 1,
+      "negativos": 10
+    },
+    {
+      "palavra": "dúvidas complexas",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    },
+    {
+      "palavra": "complexas",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    },
+    {
+      "palavra": "foram",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    },
+    {
+      "palavra": "funcionários foram",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    },
+    {
+      "palavra": "nenhuma ríspidez",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    },
+    {
+      "palavra": "ríspidez",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    },
+    {
+      "palavra": "responderam",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    },
+    {
+      "palavra": "responderam dúvidas",
+      "frequencia": 10,
+      "topico_id": "[44]",
+      "sentimento": "positivo",
+      "positivos": 8,
+      "negativos": 0
+    }
+  ]
+}

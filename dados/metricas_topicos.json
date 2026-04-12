@@ -1,0 +1,3699 @@
+{
+  "passeios": [
+    {
+      "passeio": "itaipu_iluminada",
+      "total_registros": 4000,
+      "media_nota": 4.04,
+      "media_recomendaria": 7.22,
+      "nps_score": 43.8,
+      "promotores": 2800,
+      "neutros": 152,
+      "detratores": 1048,
+      "promotores_pct": 70.0,
+      "neutros_pct": 3.8,
+      "detratores_pct": 26.2,
+      "por_perfil": [
+        {
+          "perfil_visitante": "estudante",
+          "total": 184,
+          "media_nota": 4.04,
+          "media_recomendaria": 7.22
+        },
+        {
+          "perfil_visitante": "família",
+          "total": 199,
+          "media_nota": 4.09,
+          "media_recomendaria": 7.32
+        },
+        {
+          "perfil_visitante": "grupo escolar",
+          "total": 196,
+          "media_nota": 3.99,
+          "media_recomendaria": 7.08
+        },
+        {
+          "perfil_visitante": "profissional",
+          "total": 221,
+          "media_nota": 4.03,
+          "media_recomendaria": 7.29
+        },
+        {
+          "perfil_visitante": "turista",
+          "total": 200,
+          "media_nota": 4.02,
+          "media_recomendaria": 7.2
+        }
+      ],
+      "por_periodo": [
+        {
+          "periodo": "2025-01",
+          "total": 85,
+          "media_nota": 4.04,
+          "media_recomendaria": 7.16
+        },
+        {
+          "periodo": "2025-02",
+          "total": 75,
+          "media_nota": 3.94,
+          "media_recomendaria": 6.83
+        },
+        {
+          "periodo": "2025-03",
+          "total": 49,
+          "media_nota": 3.86,
+          "media_recomendaria": 6.76
+        },
+        {
+          "periodo": "2025-04",
+          "total": 33,
+          "media_nota": 4.09,
+          "media_recomendaria": 7.61
+        },
+        {
+          "periodo": "2025-05",
+          "total": 40,
+          "media_nota": 4.06,
+          "media_recomendaria": 7.5
+        },
+        {
+          "periodo": "2025-06",
+          "total": 39,
+          "media_nota": 4.1,
+          "media_recomendaria": 7.21
+        },
+        {
+          "periodo": "2025-07",
+          "total": 66,
+          "media_nota": 4.13,
+          "media_recomendaria": 7.55
+        },
+        {
+          "periodo": "2025-08",
+          "total": 48,
+          "media_nota": 4.17,
+          "media_recomendaria": 7.73
+        },
+        {
+          "periodo": "2025-09",
+          "total": 28,
+          "media_nota": 4.1,
+          "media_recomendaria": 7.57
+        },
+        {
+          "periodo": "2025-10",
+          "total": 40,
+          "media_nota": 4.21,
+          "media_recomendaria": 7.52
+        },
+        {
+          "periodo": "2025-11",
+          "total": 44,
+          "media_nota": 4.07,
+          "media_recomendaria": 7.11
+        },
+        {
+          "periodo": "2025-12",
+          "total": 64,
+          "media_nota": 3.98,
+          "media_recomendaria": 6.91
+        },
+        {
+          "periodo": "2026-01",
+          "total": 108,
+          "media_nota": 4.07,
+          "media_recomendaria": 7.16
+        },
+        {
+          "periodo": "2026-02",
+          "total": 102,
+          "media_nota": 3.9,
+          "media_recomendaria": 7.3
+        },
+        {
+          "periodo": "2026-03",
+          "total": 97,
+          "media_nota": 3.98,
+          "media_recomendaria": 6.99
+        },
+        {
+          "periodo": "2026-04",
+          "total": 82,
+          "media_nota": 4.11,
+          "media_recomendaria": 7.4
+        }
+      ],
+      "sentimentos": {
+        "positivo": 2874,
+        "negativo": 1048,
+        "neutro": 78,
+        "positivo_pct": 71.9,
+        "negativo_pct": 26.2,
+        "neutro_pct": 1.9
+      },
+      "topicos": [
+        {
+          "topico_id": 0,
+          "palavras_chave": [
+            "muita",
+            "amei",
+            "fila",
+            "educação",
+            "beleza",
+            "guardas",
+            "transporte",
+            "agilidade"
+          ],
+          "frequencia": 157,
+          "media_nota": 3.92,
+          "sentimentos": {
+            "positivo": 116,
+            "negativo": 39,
+            "neutro": 2
+          }
+        },
+        {
+          "topico_id": 1,
+          "palavras_chave": [
+            "falta",
+            "estragou",
+            "senti",
+            "guia estragou",
+            "pressa guia",
+            "clara",
+            "segurança",
+            "desorganização"
+          ],
+          "frequencia": 35,
+          "media_nota": 2.94,
+          "sentimentos": {
+            "negativo": 35
+          }
+        },
+        {
+          "topico_id": 2,
+          "palavras_chave": [
+            "limpeza",
+            "transbordando",
+            "lixo",
+            "alta",
+            "sujeira",
+            "lixeira",
+            "passarelas",
+            "nenhuma lixeira"
+          ],
+          "frequencia": 33,
+          "media_nota": 3.44,
+          "sentimentos": {
+            "negativo": 21,
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 3,
+          "palavras_chave": [
+            "eficiente",
+            "lixeira transbordando",
+            "nenhuma lixeira",
+            "burocracia",
+            "lixeira",
+            "transbordando",
+            "incrível",
+            "monitores"
+          ],
+          "frequencia": 32,
+          "media_nota": 4.13,
+          "sentimentos": {
+            "positivo": 31,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 4,
+          "palavras_chave": [
+            "totalmente",
+            "senti",
+            "maravilhosa",
+            "nada",
+            "seguro",
+            "tranquilo",
+            "confiável",
+            "top demais"
+          ],
+          "frequencia": 28,
+          "media_nota": 4.08,
+          "sentimentos": {
+            "positivo": 20,
+            "negativo": 7,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 5,
+          "palavras_chave": [
+            "maravilhoso",
+            "tirar",
+            "tivemos",
+            "nada",
+            "tempo",
+            "muita",
+            "fila",
+            "excelente"
+          ],
+          "frequencia": 27,
+          "media_nota": 4.23,
+          "sentimentos": {
+            "positivo": 18,
+            "negativo": 9
+          }
+        },
+        {
+          "topico_id": 6,
+          "palavras_chave": [
+            "total",
+            "confiança",
+            "grades",
+            "proteção",
+            "muita",
+            "arrependi",
+            "mano",
+            "gente"
+          ],
+          "frequencia": 26,
+          "media_nota": 4.24,
+          "sentimentos": {
+            "positivo": 26
+          }
+        },
+        {
+          "topico_id": 7,
+          "palavras_chave": [
+            "turistas",
+            "estrutura",
+            "proteção",
+            "impecável",
+            "olha",
+            "mano",
+            "nota 10",
+            "10"
+          ],
+          "frequencia": 22,
+          "media_nota": 4.05,
+          "sentimentos": {
+            "positivo": 22
+          }
+        },
+        {
+          "topico_id": 8,
+          "palavras_chave": [
+            "quatis",
+            "pânico",
+            "monitores",
+            "top demais",
+            "top",
+            "demais",
+            "mano",
+            "voltei"
+          ],
+          "frequencia": 21,
+          "media_nota": 4.48,
+          "sentimentos": {
+            "positivo": 21
+          }
+        },
+        {
+          "topico_id": 9,
+          "palavras_chave": [
+            "exploração",
+            "ingresso",
+            "visual",
+            "recompensa visual",
+            "recompensa",
+            "bebê",
+            "educado",
+            "carrinhos bebê"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.1,
+          "sentimentos": {
+            "negativo": 12,
+            "positivo": 8
+          }
+        },
+        {
+          "topico_id": 10,
+          "palavras_chave": [
+            "entrada",
+            "pacote",
+            "fim",
+            "valeu",
+            "custo benefício",
+            "benefício",
+            "custo",
+            "impecável"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.4,
+          "sentimentos": {
+            "positivo": 20
+          }
+        },
+        {
+          "topico_id": 11,
+          "palavras_chave": [
+            "cansaço",
+            "confusão",
+            "ausência",
+            "triagem",
+            "feliz",
+            "organização",
+            "fiquei",
+            "embarque"
+          ],
+          "frequencia": 19,
+          "media_nota": 4.09,
+          "sentimentos": {
+            "positivo": 19
+          }
+        },
+        {
+          "topico_id": 12,
+          "palavras_chave": [
+            "molhado",
+            "escorregão",
+            "risco",
+            "antiderrapante",
+            "piso",
+            "sério",
+            "arrependi",
+            "recomendo"
+          ],
+          "frequencia": 19,
+          "media_nota": 4.46,
+          "sentimentos": {
+            "positivo": 19
+          }
+        },
+        {
+          "topico_id": 13,
+          "palavras_chave": [
+            "usina",
+            "trecho",
+            "iluminação",
+            "nenhum",
+            "recomendo",
+            "bah",
+            "poxa",
+            "sério"
+          ],
+          "frequencia": 18,
+          "media_nota": 4.19,
+          "sentimentos": {
+            "positivo": 18
+          }
+        },
+        {
+          "topico_id": 14,
+          "palavras_chave": [
+            "lugar",
+            "primeiro",
+            "segurança",
+            "guardas",
+            "iluminação",
+            "excelente",
+            "fantástico",
+            "mano"
+          ],
+          "frequencia": 17,
+          "media_nota": 4.33,
+          "sentimentos": {
+            "positivo": 16,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 15,
+          "palavras_chave": [
+            "fura fila",
+            "fura",
+            "tudo",
+            "justíssimo",
+            "cobrado",
+            "limpeza",
+            "equipe",
+            "fila"
+          ],
+          "frequencia": 17,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 17
+          }
+        },
+        {
+          "topico_id": 16,
+          "palavras_chave": [
+            "cuidado",
+            "tempo",
+            "poxa",
+            "perto",
+            "arrependi",
+            "amei"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.31,
+          "sentimentos": {
+            "positivo": 14,
+            "negativo": 2
+          }
+        },
+        {
+          "topico_id": 17,
+          "palavras_chave": [
+            "trajeto",
+            "família",
+            "vigilância",
+            "guardas",
+            "protegido",
+            "seguro",
+            "tranquilo",
+            "confiável"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.27,
+          "sentimentos": {
+            "positivo": 15,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 18,
+          "palavras_chave": [
+            "fura fila",
+            "fura",
+            "fila",
+            "multidão",
+            "tumulto",
+            "monitor",
+            "quatis",
+            "risco"
+          ],
+          "frequencia": 16,
+          "media_nota": 3.98,
+          "sentimentos": {
+            "positivo": 12,
+            "negativo": 4
+          }
+        },
+        {
+          "topico_id": 19,
+          "palavras_chave": [
+            "vigilância",
+            "ninguém",
+            "garantiu ninguém",
+            "garantiu",
+            "grades",
+            "constante",
+            "recomendo",
+            "top demais"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.11,
+          "sentimentos": {
+            "positivo": 16
+          }
+        },
+        {
+          "topico_id": 20,
+          "palavras_chave": [
+            "passarelas",
+            "ninguém",
+            "garantiu ninguém",
+            "garantiu",
+            "antiderrapante",
+            "piso",
+            "nota 10",
+            "10"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.08,
+          "sentimentos": {
+            "negativo": 15,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 21,
+          "palavras_chave": [
+            "fomos",
+            "monitor",
+            "extrema",
+            "educação",
+            "sério",
+            "cara",
+            "top",
+            "top demais"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.22,
+          "sentimentos": {
+            "negativo": 15
+          }
+        },
+        {
+          "topico_id": 22,
+          "palavras_chave": [
+            "perfeitamente",
+            "sinalização clara",
+            "clara",
+            "sinalização",
+            "evitou",
+            "olha",
+            "poxa",
+            "beleza"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.44,
+          "sentimentos": {
+            "positivo": 15
+          }
+        },
+        {
+          "topico_id": 23,
+          "palavras_chave": [
+            "nem",
+            "perfeita",
+            "multidão",
+            "gente",
+            "logística",
+            "fiquei",
+            "embarque",
+            "agilidade"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.02,
+          "sentimentos": {
+            "positivo": 15
+          }
+        },
+        {
+          "topico_id": 24,
+          "palavras_chave": [
+            "conferência qr",
+            "conferência",
+            "teve",
+            "bebedouros",
+            "entrada",
+            "code",
+            "qr code",
+            "qr"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.29,
+          "sentimentos": {
+            "positivo": 14,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 25,
+          "palavras_chave": [
+            "confiança",
+            "muita",
+            "gente",
+            "valeu pena",
+            "pena",
+            "cara",
+            "valeu",
+            "poxa"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.29,
+          "sentimentos": {
+            "positivo": 15
+          }
+        },
+        {
+          "topico_id": 26,
+          "palavras_chave": [
+            "caminhada",
+            "ritmo",
+            "perfeito",
+            "rapidez",
+            "maravilhosa",
+            "constante",
+            "10",
+            "nota 10"
+          ],
+          "frequencia": 14,
+          "media_nota": 3.95,
+          "sentimentos": {
+            "positivo": 13,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 27,
+          "palavras_chave": [
+            "deixado",
+            "chão",
+            "nenhum",
+            "mesas",
+            "impecável",
+            "restaurante",
+            "orgânico deixado",
+            "orgânico"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.0,
+          "sentimentos": {
+            "negativo": 14
+          }
+        },
+        {
+          "topico_id": 28,
+          "palavras_chave": [
+            "visitantes",
+            "centro",
+            "centro visitantes",
+            "fiquei",
+            "ingresso",
+            "rapidez",
+            "causou",
+            "turista"
+          ],
+          "frequencia": 14,
+          "media_nota": 3.38,
+          "sentimentos": {
+            "negativo": 8,
+            "positivo": 6
+          }
+        },
+        {
+          "topico_id": 29,
+          "palavras_chave": [
+            "espera",
+            "dinâmico",
+            "tivemos",
+            "super",
+            "transporte",
+            "zero",
+            "triagem",
+            "beleza"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.17,
+          "sentimentos": {
+            "positivo": 8,
+            "negativo": 6
+          }
+        },
+        {
+          "topico_id": 30,
+          "palavras_chave": [
+            "empurra",
+            "empurra empurra",
+            "elevador",
+            "tumulto",
+            "evitou",
+            "controle",
+            "embarque",
+            "rapidez"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.21,
+          "sentimentos": {
+            "positivo": 11,
+            "neutro": 2,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 31,
+          "palavras_chave": [
+            "sorrindo",
+            "vontade",
+            "má vontade",
+            "má",
+            "incrível",
+            "equipe",
+            "cara",
+            "bah"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.36,
+          "sentimentos": {
+            "negativo": 13
+          }
+        },
+        {
+          "topico_id": 32,
+          "palavras_chave": [
+            "motorista",
+            "ajudou",
+            "recomendo",
+            "beleza",
+            "sério"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.15,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 33,
+          "palavras_chave": [
+            "organização",
+            "fluxo pessoas",
+            "achei",
+            "pessoas",
+            "fluxo",
+            "grades",
+            "impecável",
+            "excelente"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.26,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 34,
+          "palavras_chave": [
+            "engarrafamento pessoas",
+            "engarrafamento",
+            "pessoas",
+            "tranquilo",
+            "fluxo",
+            "nenhum",
+            "zero",
+            "perfeita"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.03,
+          "sentimentos": {
+            "positivo": 9,
+            "negativo": 4
+          }
+        },
+        {
+          "topico_id": 35,
+          "palavras_chave": [
+            "ônibus",
+            "passeio",
+            "agilidade",
+            "nota",
+            "perder",
+            "controle",
+            "tumulto",
+            "embarque"
+          ],
+          "frequencia": 13,
+          "media_nota": 3.79,
+          "sentimentos": {
+            "neutro": 6,
+            "negativo": 6,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 36,
+          "palavras_chave": [
+            "trilhas",
+            "sinalização clara",
+            "clara",
+            "sinalização",
+            "evitou",
+            "valeu pena",
+            "pena",
+            "valeu"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.28,
+          "sentimentos": {
+            "positivo": 12,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 37,
+          "palavras_chave": [
+            "restaurante",
+            "orgânico deixado",
+            "orgânico",
+            "mesas",
+            "lixo orgânico",
+            "deixado",
+            "lixo",
+            "raiva"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.33,
+          "sentimentos": {
+            "negativo": 10,
+            "positivo": 2
+          }
+        },
+        {
+          "topico_id": 38,
+          "palavras_chave": [
+            "idosos",
+            "equipe",
+            "super",
+            "top demais",
+            "top",
+            "demais",
+            "pena",
+            "valeu pena"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.19,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 39,
+          "palavras_chave": [
+            "sinalização",
+            "fila",
+            "olha",
+            "cara",
+            "gente"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.09,
+          "sentimentos": {
+            "negativo": 11
+          }
+        },
+        {
+          "topico_id": 40,
+          "palavras_chave": [
+            "perder",
+            "guia",
+            "nenhuma",
+            "recomendo",
+            "top",
+            "top demais",
+            "demais",
+            "mano"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 41,
+          "palavras_chave": [
+            "pressa",
+            "correria",
+            "ritmo",
+            "experiência",
+            "tempo",
+            "teve",
+            "senti",
+            "nenhuma"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.15,
+          "sentimentos": {
+            "positivo": 10,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 42,
+          "palavras_chave": [
+            "transporte",
+            "baldeação",
+            "rápida",
+            "eficiente",
+            "nota",
+            "logística",
+            "mano",
+            "recomendo"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 10,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 43,
+          "palavras_chave": [
+            "code",
+            "qr code",
+            "qr",
+            "evitou aglomeração",
+            "aglomeração",
+            "logística",
+            "evitou",
+            "olha logística"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.27,
+          "sentimentos": {
+            "negativo": 10,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 44,
+          "palavras_chave": [
+            "dúvidas complexas",
+            "complexas",
+            "responderam dúvidas",
+            "funcionários foram",
+            "responderam",
+            "foram",
+            "nenhuma ríspidez",
+            "ríspidez"
+          ],
+          "frequencia": 10,
+          "media_nota": 3.73,
+          "sentimentos": {
+            "positivo": 8,
+            "neutro": 2
+          }
+        }
+      ]
+    },
+    {
+      "passeio": "itaipu_panoramica",
+      "total_registros": 1000,
+      "media_nota": 3.98,
+      "media_recomendaria": 7.06,
+      "nps_score": -12.0,
+      "promotores": 212,
+      "neutros": 456,
+      "detratores": 332,
+      "promotores_pct": 21.2,
+      "neutros_pct": 45.6,
+      "detratores_pct": 33.2,
+      "por_perfil": [
+        {
+          "perfil_visitante": "estudante",
+          "total": 195,
+          "media_nota": 4.0,
+          "media_recomendaria": 7.2
+        },
+        {
+          "perfil_visitante": "família",
+          "total": 186,
+          "media_nota": 4.06,
+          "media_recomendaria": 6.98
+        },
+        {
+          "perfil_visitante": "grupo escolar",
+          "total": 219,
+          "media_nota": 3.96,
+          "media_recomendaria": 7.05
+        },
+        {
+          "perfil_visitante": "profissional",
+          "total": 202,
+          "media_nota": 3.93,
+          "media_recomendaria": 6.97
+        },
+        {
+          "perfil_visitante": "turista",
+          "total": 198,
+          "media_nota": 3.99,
+          "media_recomendaria": 7.1
+        }
+      ],
+      "por_periodo": [
+        {
+          "periodo": "2025-01",
+          "total": 79,
+          "media_nota": 4.06,
+          "media_recomendaria": 7.3
+        },
+        {
+          "periodo": "2025-02",
+          "total": 67,
+          "media_nota": 3.87,
+          "media_recomendaria": 6.84
+        },
+        {
+          "periodo": "2025-03",
+          "total": 45,
+          "media_nota": 3.99,
+          "media_recomendaria": 7.07
+        },
+        {
+          "periodo": "2025-04",
+          "total": 29,
+          "media_nota": 4.15,
+          "media_recomendaria": 7.72
+        },
+        {
+          "periodo": "2025-05",
+          "total": 34,
+          "media_nota": 4.26,
+          "media_recomendaria": 7.74
+        },
+        {
+          "periodo": "2025-06",
+          "total": 28,
+          "media_nota": 4.05,
+          "media_recomendaria": 7.32
+        },
+        {
+          "periodo": "2025-07",
+          "total": 88,
+          "media_nota": 3.96,
+          "media_recomendaria": 6.92
+        },
+        {
+          "periodo": "2025-08",
+          "total": 42,
+          "media_nota": 3.94,
+          "media_recomendaria": 7.17
+        },
+        {
+          "periodo": "2025-09",
+          "total": 25,
+          "media_nota": 3.88,
+          "media_recomendaria": 6.84
+        },
+        {
+          "periodo": "2025-10",
+          "total": 42,
+          "media_nota": 3.94,
+          "media_recomendaria": 6.9
+        },
+        {
+          "periodo": "2025-11",
+          "total": 50,
+          "media_nota": 3.88,
+          "media_recomendaria": 6.56
+        },
+        {
+          "periodo": "2025-12",
+          "total": 77,
+          "media_nota": 3.85,
+          "media_recomendaria": 6.78
+        },
+        {
+          "periodo": "2026-01",
+          "total": 112,
+          "media_nota": 3.98,
+          "media_recomendaria": 6.87
+        },
+        {
+          "periodo": "2026-02",
+          "total": 107,
+          "media_nota": 3.95,
+          "media_recomendaria": 7.0
+        },
+        {
+          "periodo": "2026-03",
+          "total": 96,
+          "media_nota": 4.03,
+          "media_recomendaria": 7.27
+        },
+        {
+          "periodo": "2026-04",
+          "total": 79,
+          "media_nota": 4.11,
+          "media_recomendaria": 7.3
+        }
+      ],
+      "sentimentos": {
+        "positivo": 687,
+        "neutro": 21,
+        "negativo": 292,
+        "positivo_pct": 68.7,
+        "neutro_pct": 2.1,
+        "negativo_pct": 29.2
+      },
+      "topicos": [
+        {
+          "topico_id": 0,
+          "palavras_chave": [
+            "constante",
+            "tempo",
+            "excelente",
+            "super",
+            "valeu",
+            "nota",
+            "10",
+            "nota 10"
+          ],
+          "frequencia": 152,
+          "media_nota": 3.96,
+          "sentimentos": {
+            "positivo": 100,
+            "negativo": 51,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 1,
+          "palavras_chave": [
+            "transbordando",
+            "tumulto",
+            "falta",
+            "pressa",
+            "parecia",
+            "ritmo",
+            "lixeira",
+            "passarelas"
+          ],
+          "frequencia": 140,
+          "media_nota": 3.33,
+          "sentimentos": {
+            "negativo": 103,
+            "positivo": 31,
+            "neutro": 6
+          }
+        },
+        {
+          "topico_id": 2,
+          "palavras_chave": [
+            "guia",
+            "técnico",
+            "conhecimento",
+            "conhecimento técnico",
+            "dupla",
+            "fila dupla",
+            "tirar",
+            "dúvidas"
+          ],
+          "frequencia": 38,
+          "media_nota": 4.14,
+          "sentimentos": {
+            "positivo": 30,
+            "negativo": 8
+          }
+        },
+        {
+          "topico_id": 3,
+          "palavras_chave": [
+            "organização",
+            "achei",
+            "embarque",
+            "perfeita",
+            "pessoas",
+            "zero",
+            "controle",
+            "impecável"
+          ],
+          "frequencia": 29,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 22,
+            "negativo": 7
+          }
+        },
+        {
+          "topico_id": 4,
+          "palavras_chave": [
+            "dinâmico",
+            "tivemos",
+            "espera",
+            "sinalização clara",
+            "clara",
+            "perfeitamente",
+            "super",
+            "sinalização"
+          ],
+          "frequencia": 26,
+          "media_nota": 4.2,
+          "sentimentos": {
+            "positivo": 22,
+            "negativo": 3,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 5,
+          "palavras_chave": [
+            "justíssimo",
+            "cobrado",
+            "limpeza",
+            "custo benefício",
+            "custo",
+            "benefício",
+            "cara",
+            "amei"
+          ],
+          "frequencia": 25,
+          "media_nota": 4.07,
+          "sentimentos": {
+            "positivo": 25
+          }
+        },
+        {
+          "topico_id": 6,
+          "palavras_chave": [
+            "bebedouros",
+            "impecável",
+            "excelente",
+            "recomendo",
+            "bah",
+            "fantástico",
+            "perfeito",
+            "amei"
+          ],
+          "frequencia": 23,
+          "media_nota": 3.93,
+          "sentimentos": {
+            "positivo": 23
+          }
+        },
+        {
+          "topico_id": 7,
+          "palavras_chave": [
+            "lugar",
+            "primeiro",
+            "barragem",
+            "guardas",
+            "burocracia",
+            "iluminação",
+            "segurança",
+            "controle"
+          ],
+          "frequencia": 23,
+          "media_nota": 4.2,
+          "sentimentos": {
+            "positivo": 23
+          }
+        },
+        {
+          "topico_id": 8,
+          "palavras_chave": [
+            "usina",
+            "trecho",
+            "iluminação",
+            "turistas",
+            "estrutura",
+            "nenhum",
+            "proteção",
+            "impecável"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.12,
+          "sentimentos": {
+            "positivo": 20
+          }
+        },
+        {
+          "topico_id": 9,
+          "palavras_chave": [
+            "totalmente",
+            "senti",
+            "família",
+            "vigilância",
+            "guardas",
+            "trajeto",
+            "tranquilo",
+            "recomendo"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.18,
+          "sentimentos": {
+            "positivo": 19,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 10,
+          "palavras_chave": [
+            "nada",
+            "maravilhosa",
+            "hospitalidade",
+            "monitores",
+            "educação",
+            "incrível",
+            "muita",
+            "beleza"
+          ],
+          "frequencia": 19,
+          "media_nota": 4.11,
+          "sentimentos": {
+            "negativo": 12,
+            "positivo": 6,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 11,
+          "palavras_chave": [
+            "trajeto",
+            "chão",
+            "limpeza",
+            "lixo",
+            "voltei",
+            "voltei feliz",
+            "pena",
+            "valeu pena"
+          ],
+          "frequencia": 18,
+          "media_nota": 4.26,
+          "sentimentos": {
+            "positivo": 18
+          }
+        },
+        {
+          "topico_id": 12,
+          "palavras_chave": [
+            "nada",
+            "tivemos",
+            "tirar",
+            "maravilhoso",
+            "muita",
+            "tempo",
+            "cara",
+            "pressa"
+          ],
+          "frequencia": 18,
+          "media_nota": 3.98,
+          "sentimentos": {
+            "negativo": 12,
+            "positivo": 6
+          }
+        },
+        {
+          "topico_id": 13,
+          "palavras_chave": [
+            "experiência",
+            "teve",
+            "pressa",
+            "senti",
+            "fura",
+            "fura fila",
+            "nenhuma",
+            "tudo"
+          ],
+          "frequencia": 17,
+          "media_nota": 3.98,
+          "sentimentos": {
+            "positivo": 14,
+            "negativo": 3
+          }
+        },
+        {
+          "topico_id": 14,
+          "palavras_chave": [
+            "sabão",
+            "cheirosos",
+            "papel",
+            "banheiros",
+            "tempo",
+            "recomendo",
+            "sério",
+            "olha"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.0,
+          "sentimentos": {
+            "positivo": 15,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 15,
+          "palavras_chave": [
+            "parque",
+            "enorme",
+            "ausência",
+            "trilha",
+            "sujeira",
+            "planejamento",
+            "fluxo",
+            "constante"
+          ],
+          "frequencia": 16,
+          "media_nota": 3.83,
+          "sentimentos": {
+            "positivo": 14,
+            "negativo": 1,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 16,
+          "palavras_chave": [
+            "dúvidas",
+            "nenhuma",
+            "beleza",
+            "olha",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "frequencia": 16,
+          "media_nota": 4.0,
+          "sentimentos": {
+            "positivo": 16
+          }
+        },
+        {
+          "topico_id": 17,
+          "palavras_chave": [
+            "ônibus",
+            "passeio",
+            "agilidade",
+            "nota",
+            "baldeação ônibus",
+            "baldeação",
+            "amei",
+            "olha"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.02,
+          "sentimentos": {
+            "negativo": 9,
+            "neutro": 6,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 18,
+          "palavras_chave": [
+            "idosos",
+            "triagem",
+            "segurança",
+            "equipe",
+            "agilidade",
+            "ajudou",
+            "ignorância",
+            "super"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.04,
+          "sentimentos": {
+            "positivo": 15
+          }
+        },
+        {
+          "topico_id": 19,
+          "palavras_chave": [
+            "fura fila",
+            "fura",
+            "desorientação",
+            "ziguezague",
+            "trilhas",
+            "sinalização clara",
+            "clara",
+            "sinalização"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.26,
+          "sentimentos": {
+            "positivo": 14
+          }
+        },
+        {
+          "topico_id": 20,
+          "palavras_chave": [
+            "confiança",
+            "muita",
+            "beleza",
+            "recomendo",
+            "gente",
+            "",
+            "",
+            ""
+          ],
+          "frequencia": 14,
+          "media_nota": 4.02,
+          "sentimentos": {
+            "positivo": 14
+          }
+        },
+        {
+          "topico_id": 21,
+          "palavras_chave": [
+            "engarrafamento pessoas",
+            "engarrafamento",
+            "tranquilo",
+            "nem",
+            "pessoas",
+            "perfeita",
+            "fluxo",
+            "nenhum"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.12,
+          "sentimentos": {
+            "positivo": 14
+          }
+        },
+        {
+          "topico_id": 22,
+          "palavras_chave": [
+            "caminhada",
+            "ritmo",
+            "perfeito",
+            "rapidez",
+            "nota 10",
+            "10",
+            "nota",
+            "impecável"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.12,
+          "sentimentos": {
+            "positivo": 13,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 23,
+          "palavras_chave": [
+            "escorregão",
+            "molhado",
+            "risco",
+            "antiderrapante",
+            "piso",
+            "gente",
+            "valeu pena",
+            "pena"
+          ],
+          "frequencia": 13,
+          "media_nota": 3.87,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 24,
+          "palavras_chave": [
+            "educado",
+            "carrinhos bebê",
+            "carrinhos",
+            "bebê",
+            "sorrindo",
+            "motorista",
+            "ajudou",
+            "bah"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.13,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 25,
+          "palavras_chave": [
+            "zeladoria",
+            "mirante",
+            "incrível",
+            "tudo",
+            "impecável",
+            "arrependi",
+            "sério",
+            ""
+          ],
+          "frequencia": 13,
+          "media_nota": 4.44,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 26,
+          "palavras_chave": [
+            "monitor",
+            "fomos",
+            "educação",
+            "extrema",
+            "recomendo",
+            "poxa",
+            "top",
+            "top demais"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.21,
+          "sentimentos": {
+            "negativo": 13
+          }
+        },
+        {
+          "topico_id": 27,
+          "palavras_chave": [
+            "deixado",
+            "chão",
+            "nenhum",
+            "impecável",
+            "mesas",
+            "restaurante",
+            "orgânico deixado",
+            "orgânico"
+          ],
+          "frequencia": 13,
+          "media_nota": 3.92,
+          "sentimentos": {
+            "negativo": 13
+          }
+        },
+        {
+          "topico_id": 28,
+          "palavras_chave": [
+            "baldeação ônibus",
+            "baldeação",
+            "perfeitamente",
+            "ônibus",
+            "logística",
+            "raiva",
+            "voltei feliz",
+            "voltei"
+          ],
+          "frequencia": 12,
+          "media_nota": 3.86,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 29,
+          "palavras_chave": [
+            "ingresso",
+            "exploração",
+            "recompensa visual",
+            "recompensa",
+            "visual",
+            "poxa",
+            "mano",
+            "cara"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.33,
+          "sentimentos": {
+            "negativo": 12
+          }
+        },
+        {
+          "topico_id": 30,
+          "palavras_chave": [
+            "fila",
+            "excelente",
+            "perfeito",
+            "top",
+            "top demais",
+            "bah",
+            "nota 10",
+            "10"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.25,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 31,
+          "palavras_chave": [
+            "solícito",
+            "motorista",
+            "ajudou",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "frequencia": 12,
+          "media_nota": 4.11,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 32,
+          "palavras_chave": [
+            "zero",
+            "extrema",
+            "tempo espera",
+            "espera",
+            "equipe",
+            "rapidez",
+            "tempo",
+            "beleza"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.19,
+          "sentimentos": {
+            "positivo": 10,
+            "negativo": 2
+          }
+        },
+        {
+          "topico_id": 33,
+          "palavras_chave": [
+            "compensa",
+            "valor",
+            "recompensa visual",
+            "recompensa",
+            "visual",
+            "pacote",
+            "justíssimo",
+            "cobrado"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 34,
+          "palavras_chave": [
+            "banheiros",
+            "papel",
+            "sabão",
+            "cheirosos",
+            "insuportável",
+            "parecia",
+            "zeladoria",
+            "recomendo"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.05,
+          "sentimentos": {
+            "positivo": 9,
+            "negativo": 3
+          }
+        },
+        {
+          "topico_id": 35,
+          "palavras_chave": [
+            "atendimento",
+            "vontade",
+            "má vontade",
+            "má",
+            "equipe",
+            "nenhuma",
+            "raiva",
+            "poxa"
+          ],
+          "frequencia": 11,
+          "media_nota": 3.97,
+          "sentimentos": {
+            "negativo": 11
+          }
+        },
+        {
+          "topico_id": 36,
+          "palavras_chave": [
+            "nenhuma lixeira",
+            "lixeira transbordando",
+            "eficiente",
+            "lixeira",
+            "transbordando",
+            "lixo",
+            "nenhuma",
+            "super"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.33,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 37,
+          "palavras_chave": [
+            "restaurante",
+            "rapidamente",
+            "orgânico deixado",
+            "orgânico",
+            "lixo orgânico",
+            "mesas",
+            "deixado",
+            "lixo"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.48,
+          "sentimentos": {
+            "negativo": 6,
+            "positivo": 3,
+            "neutro": 2
+          }
+        }
+      ]
+    },
+    {
+      "passeio": "itaipu_especial",
+      "total_registros": 1000,
+      "media_nota": 4.05,
+      "media_recomendaria": 7.21,
+      "nps_score": -7.5,
+      "promotores": 236,
+      "neutros": 453,
+      "detratores": 311,
+      "promotores_pct": 23.6,
+      "neutros_pct": 45.3,
+      "detratores_pct": 31.1,
+      "por_perfil": [
+        {
+          "perfil_visitante": "estudante",
+          "total": 206,
+          "media_nota": 4.1,
+          "media_recomendaria": 7.36
+        },
+        {
+          "perfil_visitante": "família",
+          "total": 179,
+          "media_nota": 4.01,
+          "media_recomendaria": 7.08
+        },
+        {
+          "perfil_visitante": "grupo escolar",
+          "total": 197,
+          "media_nota": 4.11,
+          "media_recomendaria": 7.32
+        },
+        {
+          "perfil_visitante": "profissional",
+          "total": 209,
+          "media_nota": 4.05,
+          "media_recomendaria": 7.2
+        },
+        {
+          "perfil_visitante": "turista",
+          "total": 209,
+          "media_nota": 3.98,
+          "media_recomendaria": 7.07
+        }
+      ],
+      "por_periodo": [
+        {
+          "periodo": "2025-01",
+          "total": 73,
+          "media_nota": 4.03,
+          "media_recomendaria": 7.07
+        },
+        {
+          "periodo": "2025-02",
+          "total": 81,
+          "media_nota": 3.97,
+          "media_recomendaria": 6.95
+        },
+        {
+          "periodo": "2025-03",
+          "total": 41,
+          "media_nota": 4.15,
+          "media_recomendaria": 7.22
+        },
+        {
+          "periodo": "2025-04",
+          "total": 40,
+          "media_nota": 4.17,
+          "media_recomendaria": 7.65
+        },
+        {
+          "periodo": "2025-05",
+          "total": 41,
+          "media_nota": 4.09,
+          "media_recomendaria": 7.39
+        },
+        {
+          "periodo": "2025-06",
+          "total": 33,
+          "media_nota": 3.89,
+          "media_recomendaria": 6.55
+        },
+        {
+          "periodo": "2025-07",
+          "total": 65,
+          "media_nota": 4.19,
+          "media_recomendaria": 7.52
+        },
+        {
+          "periodo": "2025-08",
+          "total": 41,
+          "media_nota": 4.02,
+          "media_recomendaria": 7.07
+        },
+        {
+          "periodo": "2025-09",
+          "total": 47,
+          "media_nota": 4.0,
+          "media_recomendaria": 7.11
+        },
+        {
+          "periodo": "2025-10",
+          "total": 38,
+          "media_nota": 4.13,
+          "media_recomendaria": 7.32
+        },
+        {
+          "periodo": "2025-11",
+          "total": 52,
+          "media_nota": 4.1,
+          "media_recomendaria": 7.19
+        },
+        {
+          "periodo": "2025-12",
+          "total": 71,
+          "media_nota": 3.9,
+          "media_recomendaria": 6.77
+        },
+        {
+          "periodo": "2026-01",
+          "total": 128,
+          "media_nota": 3.96,
+          "media_recomendaria": 7.09
+        },
+        {
+          "periodo": "2026-02",
+          "total": 80,
+          "media_nota": 4.04,
+          "media_recomendaria": 7.59
+        },
+        {
+          "periodo": "2026-03",
+          "total": 94,
+          "media_nota": 4.13,
+          "media_recomendaria": 7.35
+        },
+        {
+          "periodo": "2026-04",
+          "total": 75,
+          "media_nota": 4.16,
+          "media_recomendaria": 7.43
+        }
+      ],
+      "sentimentos": {
+        "positivo": 754,
+        "neutro": 22,
+        "negativo": 224,
+        "positivo_pct": 75.4,
+        "neutro_pct": 2.2,
+        "negativo_pct": 22.4
+      },
+      "topicos": [
+        {
+          "topico_id": 0,
+          "palavras_chave": [
+            "bah",
+            "tudo",
+            "impecável",
+            "nenhum",
+            "olha",
+            "sério",
+            "família",
+            "cara"
+          ],
+          "frequencia": 134,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 90,
+            "negativo": 43,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 1,
+          "palavras_chave": [
+            "passeio",
+            "trilha",
+            "senti",
+            "estrutura",
+            "achei",
+            "parecia",
+            "arrependi",
+            "planejamento"
+          ],
+          "frequencia": 66,
+          "media_nota": 3.03,
+          "sentimentos": {
+            "negativo": 60,
+            "positivo": 5,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 2,
+          "palavras_chave": [
+            "total",
+            "proteção",
+            "confiança",
+            "grades",
+            "muita",
+            "sério",
+            "fila",
+            "gente"
+          ],
+          "frequencia": 35,
+          "media_nota": 4.21,
+          "sentimentos": {
+            "positivo": 35
+          }
+        },
+        {
+          "topico_id": 3,
+          "palavras_chave": [
+            "tempo rapidez",
+            "espera infinita",
+            "infinita",
+            "ônibus",
+            "curto",
+            "fluxo",
+            "rapidez",
+            "espera"
+          ],
+          "frequencia": 34,
+          "media_nota": 4.03,
+          "sentimentos": {
+            "positivo": 23,
+            "negativo": 10,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 4,
+          "palavras_chave": [
+            "senti",
+            "seguro",
+            "excelente",
+            "protegido",
+            "amei",
+            "gente",
+            "olha",
+            "nota 10"
+          ],
+          "frequencia": 33,
+          "media_nota": 4.09,
+          "sentimentos": {
+            "positivo": 26,
+            "negativo": 4,
+            "neutro": 3
+          }
+        },
+        {
+          "topico_id": 5,
+          "palavras_chave": [
+            "ninguém",
+            "garantiu ninguém",
+            "garantiu",
+            "vigilância",
+            "grades",
+            "constante",
+            "beleza",
+            "olha"
+          ],
+          "frequencia": 27,
+          "media_nota": 4.15,
+          "sentimentos": {
+            "positivo": 27
+          }
+        },
+        {
+          "topico_id": 6,
+          "palavras_chave": [
+            "custo benefício",
+            "benefício",
+            "custo",
+            "fim",
+            "ausência",
+            "impecável",
+            "organização impecável",
+            "feliz"
+          ],
+          "frequencia": 25,
+          "media_nota": 4.09,
+          "sentimentos": {
+            "positivo": 25
+          }
+        },
+        {
+          "topico_id": 7,
+          "palavras_chave": [
+            "barragem",
+            "lugar",
+            "segurança",
+            "guardas",
+            "iluminação",
+            "excelente",
+            "valeu pena",
+            "pena"
+          ],
+          "frequencia": 24,
+          "media_nota": 4.14,
+          "sentimentos": {
+            "positivo": 24
+          }
+        },
+        {
+          "topico_id": 8,
+          "palavras_chave": [
+            "organização",
+            "fluxo pessoas",
+            "organização impecável",
+            "pessoas",
+            "transporte",
+            "volta",
+            "baldeação",
+            "achei"
+          ],
+          "frequencia": 24,
+          "media_nota": 4.24,
+          "sentimentos": {
+            "positivo": 23,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 9,
+          "palavras_chave": [
+            "molhado",
+            "escorregão",
+            "risco",
+            "antiderrapante",
+            "piso",
+            "raiva",
+            "recomendo",
+            "poxa"
+          ],
+          "frequencia": 24,
+          "media_nota": 4.18,
+          "sentimentos": {
+            "positivo": 24
+          }
+        },
+        {
+          "topico_id": 10,
+          "palavras_chave": [
+            "educação",
+            "motorista",
+            "fomos",
+            "ajudou",
+            "monitor",
+            "incrível",
+            "extrema",
+            "monitores"
+          ],
+          "frequencia": 24,
+          "media_nota": 4.19,
+          "sentimentos": {
+            "positivo": 15,
+            "negativo": 7,
+            "neutro": 2
+          }
+        },
+        {
+          "topico_id": 11,
+          "palavras_chave": [
+            "correria",
+            "pressa",
+            "caminhada",
+            "tempo",
+            "excelente",
+            "demais",
+            "rapidez",
+            "fantástico"
+          ],
+          "frequencia": 23,
+          "media_nota": 4.03,
+          "sentimentos": {
+            "positivo": 17,
+            "negativo": 4,
+            "neutro": 2
+          }
+        },
+        {
+          "topico_id": 12,
+          "palavras_chave": [
+            "usina",
+            "trecho",
+            "iluminação",
+            "nenhum",
+            "mano",
+            "valeu pena",
+            "pena",
+            "valeu"
+          ],
+          "frequencia": 23,
+          "media_nota": 4.13,
+          "sentimentos": {
+            "positivo": 23
+          }
+        },
+        {
+          "topico_id": 13,
+          "palavras_chave": [
+            "cuidado",
+            "tempo",
+            "recomendo",
+            "perto",
+            "gente",
+            "beleza",
+            "valeu pena",
+            "pena"
+          ],
+          "frequencia": 23,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 21,
+            "negativo": 2
+          }
+        },
+        {
+          "topico_id": 14,
+          "palavras_chave": [
+            "confiança",
+            "muita",
+            "bah",
+            "raiva",
+            "arrependi",
+            "top",
+            "top demais",
+            "amei"
+          ],
+          "frequencia": 22,
+          "media_nota": 4.17,
+          "sentimentos": {
+            "positivo": 22
+          }
+        },
+        {
+          "topico_id": 15,
+          "palavras_chave": [
+            "orgânico",
+            "lixo orgânico",
+            "maravilhosa",
+            "nada",
+            "hospitalidade",
+            "lixo",
+            "chão",
+            "impecável"
+          ],
+          "frequencia": 22,
+          "media_nota": 3.91,
+          "sentimentos": {
+            "negativo": 20,
+            "positivo": 1,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 16,
+          "palavras_chave": [
+            "limpeza",
+            "sujeira",
+            "lixo",
+            "passarelas",
+            "chão",
+            "trajeto",
+            "caminhada",
+            "constante"
+          ],
+          "frequencia": 21,
+          "media_nota": 4.16,
+          "sentimentos": {
+            "positivo": 16,
+            "negativo": 5
+          }
+        },
+        {
+          "topico_id": 17,
+          "palavras_chave": [
+            "trajeto",
+            "família",
+            "seguro",
+            "guardas",
+            "vigilância",
+            "protegido",
+            "amei",
+            "olha"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.27,
+          "sentimentos": {
+            "positivo": 20
+          }
+        },
+        {
+          "topico_id": 18,
+          "palavras_chave": [
+            "desnecessária",
+            "aglomeração",
+            "zero",
+            "controle",
+            "logística",
+            "embarque",
+            "tempo espera",
+            "evitou"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.28,
+          "sentimentos": {
+            "negativo": 12,
+            "positivo": 8
+          }
+        },
+        {
+          "topico_id": 19,
+          "palavras_chave": [
+            "pânico",
+            "quatis",
+            "monitores",
+            "voltei",
+            "voltei feliz",
+            "feliz",
+            "monitores ajudando",
+            "fila orientada"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.07,
+          "sentimentos": {
+            "positivo": 20
+          }
+        },
+        {
+          "topico_id": 20,
+          "palavras_chave": [
+            "cobrado",
+            "limpeza",
+            "entrada",
+            "valeu",
+            "compensa",
+            "valor",
+            "tudo",
+            "raiva"
+          ],
+          "frequencia": 19,
+          "media_nota": 4.02,
+          "sentimentos": {
+            "positivo": 19
+          }
+        },
+        {
+          "topico_id": 21,
+          "palavras_chave": [
+            "perder",
+            "sistema",
+            "triagem",
+            "eficiente",
+            "rápida",
+            "guia",
+            "nenhuma",
+            "gente"
+          ],
+          "frequencia": 19,
+          "media_nota": 4.09,
+          "sentimentos": {
+            "positivo": 19
+          }
+        },
+        {
+          "topico_id": 22,
+          "palavras_chave": [
+            "fura",
+            "fura fila",
+            "fila",
+            "monitor",
+            "multidão",
+            "cara",
+            "tumulto",
+            "arrependi"
+          ],
+          "frequencia": 19,
+          "media_nota": 3.93,
+          "sentimentos": {
+            "positivo": 16,
+            "negativo": 3
+          }
+        },
+        {
+          "topico_id": 23,
+          "palavras_chave": [
+            "turistas",
+            "estrutura",
+            "proteção",
+            "impecável",
+            "pena",
+            "valeu pena",
+            "valeu",
+            "arrependi"
+          ],
+          "frequencia": 18,
+          "media_nota": 4.11,
+          "sentimentos": {
+            "positivo": 18
+          }
+        },
+        {
+          "topico_id": 24,
+          "palavras_chave": [
+            "lixeira",
+            "lixeira transbordando",
+            "nenhuma lixeira",
+            "transbordando",
+            "eficiente",
+            "lixo",
+            "nenhuma",
+            "zeladoria"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.35,
+          "sentimentos": {
+            "positivo": 16
+          }
+        },
+        {
+          "topico_id": 25,
+          "palavras_chave": [
+            "cansaço",
+            "triagem",
+            "ajudou",
+            "agilidade",
+            "equipe",
+            "ignorância",
+            "segurança",
+            "super"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.22,
+          "sentimentos": {
+            "positivo": 15
+          }
+        },
+        {
+          "topico_id": 26,
+          "palavras_chave": [
+            "passarelas",
+            "antiderrapante",
+            "ninguém",
+            "piso",
+            "garantiu ninguém",
+            "garantiu",
+            "olha",
+            "nota 10"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.17,
+          "sentimentos": {
+            "negativo": 13,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 27,
+          "palavras_chave": [
+            "guia",
+            "funcionários",
+            "super",
+            "nenhuma",
+            "tranquilo",
+            "valeu pena",
+            "pena",
+            "amei"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.24,
+          "sentimentos": {
+            "positivo": 14
+          }
+        },
+        {
+          "topico_id": 28,
+          "palavras_chave": [
+            "sinalização clara",
+            "perfeitamente",
+            "clara",
+            "sinalização",
+            "evitou",
+            "amei",
+            "bah",
+            "poxa"
+          ],
+          "frequencia": 14,
+          "media_nota": 4.07,
+          "sentimentos": {
+            "positivo": 14
+          }
+        },
+        {
+          "topico_id": 29,
+          "palavras_chave": [
+            "sinalização clara",
+            "clara",
+            "sinalização",
+            "evitou",
+            "raiva",
+            "arrependi",
+            "pena",
+            "valeu pena"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.31,
+          "sentimentos": {
+            "positivo": 10,
+            "negativo": 2
+          }
+        },
+        {
+          "topico_id": 30,
+          "palavras_chave": [
+            "orientada monitores",
+            "orientada",
+            "monitores ajudando",
+            "fila orientada",
+            "evitando confusão",
+            "evitando",
+            "ajudando evitando",
+            "ajudando"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.22,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 31,
+          "palavras_chave": [
+            "planejamento",
+            "parque",
+            "constante",
+            "fluxo",
+            "maravilhosa",
+            "arrependi",
+            "bah",
+            "poxa"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.31,
+          "sentimentos": {
+            "positivo": 11,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 32,
+          "palavras_chave": [
+            "atendimento",
+            "parte",
+            "vontade",
+            "má vontade",
+            "má",
+            "nenhuma",
+            "equipe",
+            "recomendo"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.43,
+          "sentimentos": {
+            "negativo": 10,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 33,
+          "palavras_chave": [
+            "visitantes",
+            "centro visitantes",
+            "centro",
+            "sistema",
+            "controle",
+            "desordem",
+            "pena",
+            "valeu pena"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.0,
+          "sentimentos": {
+            "positivo": 10,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 34,
+          "palavras_chave": [
+            "qr code",
+            "qr",
+            "code",
+            "teve",
+            "entrada",
+            "rápida",
+            "gargalo",
+            "nenhum"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.18,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 35,
+          "palavras_chave": [
+            "hospitalidade",
+            "sorrindo",
+            "incrível",
+            "vontade",
+            "má vontade",
+            "má",
+            "equipe",
+            "sério hospitalidade"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.27,
+          "sentimentos": {
+            "negativo": 7,
+            "positivo": 4
+          }
+        },
+        {
+          "topico_id": 36,
+          "palavras_chave": [
+            "engarrafamento pessoas",
+            "tranquilo",
+            "engarrafamento",
+            "pessoas",
+            "fluxo",
+            "nenhum",
+            "poxa",
+            "gente"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.09,
+          "sentimentos": {
+            "positivo": 11
+          }
+        }
+      ]
+    },
+    {
+      "passeio": "parque_nacional",
+      "total_registros": 1000,
+      "media_nota": 4.03,
+      "media_recomendaria": 7.26,
+      "nps_score": -6.6,
+      "promotores": 221,
+      "neutros": 492,
+      "detratores": 287,
+      "promotores_pct": 22.1,
+      "neutros_pct": 49.2,
+      "detratores_pct": 28.7,
+      "por_perfil": [
+        {
+          "perfil_visitante": "estudante",
+          "total": 200,
+          "media_nota": 3.99,
+          "media_recomendaria": 7.32
+        },
+        {
+          "perfil_visitante": "família",
+          "total": 220,
+          "media_nota": 4.07,
+          "media_recomendaria": 7.31
+        },
+        {
+          "perfil_visitante": "grupo escolar",
+          "total": 175,
+          "media_nota": 4.0,
+          "media_recomendaria": 7.22
+        },
+        {
+          "perfil_visitante": "profissional",
+          "total": 202,
+          "media_nota": 4.07,
+          "media_recomendaria": 7.26
+        },
+        {
+          "perfil_visitante": "turista",
+          "total": 203,
+          "media_nota": 3.99,
+          "media_recomendaria": 7.18
+        }
+      ],
+      "por_periodo": [
+        {
+          "periodo": "2025-01",
+          "total": 84,
+          "media_nota": 3.98,
+          "media_recomendaria": 7.3
+        },
+        {
+          "periodo": "2025-02",
+          "total": 64,
+          "media_nota": 3.98,
+          "media_recomendaria": 6.97
+        },
+        {
+          "periodo": "2025-03",
+          "total": 39,
+          "media_nota": 3.94,
+          "media_recomendaria": 7.08
+        },
+        {
+          "periodo": "2025-04",
+          "total": 36,
+          "media_nota": 4.14,
+          "media_recomendaria": 7.56
+        },
+        {
+          "periodo": "2025-05",
+          "total": 38,
+          "media_nota": 3.9,
+          "media_recomendaria": 7.21
+        },
+        {
+          "periodo": "2025-06",
+          "total": 30,
+          "media_nota": 4.02,
+          "media_recomendaria": 7.13
+        },
+        {
+          "periodo": "2025-07",
+          "total": 71,
+          "media_nota": 4.11,
+          "media_recomendaria": 7.48
+        },
+        {
+          "periodo": "2025-08",
+          "total": 48,
+          "media_nota": 3.97,
+          "media_recomendaria": 6.98
+        },
+        {
+          "periodo": "2025-09",
+          "total": 33,
+          "media_nota": 3.82,
+          "media_recomendaria": 7.18
+        },
+        {
+          "periodo": "2025-10",
+          "total": 37,
+          "media_nota": 3.99,
+          "media_recomendaria": 7.3
+        },
+        {
+          "periodo": "2025-11",
+          "total": 47,
+          "media_nota": 4.02,
+          "media_recomendaria": 7.0
+        },
+        {
+          "periodo": "2025-12",
+          "total": 80,
+          "media_nota": 4.01,
+          "media_recomendaria": 7.14
+        },
+        {
+          "periodo": "2026-01",
+          "total": 104,
+          "media_nota": 4.03,
+          "media_recomendaria": 7.25
+        },
+        {
+          "periodo": "2026-02",
+          "total": 103,
+          "media_nota": 4.05,
+          "media_recomendaria": 7.3
+        },
+        {
+          "periodo": "2026-03",
+          "total": 109,
+          "media_nota": 4.13,
+          "media_recomendaria": 7.49
+        },
+        {
+          "periodo": "2026-04",
+          "total": 77,
+          "media_nota": 4.07,
+          "media_recomendaria": 7.4
+        }
+      ],
+      "sentimentos": {
+        "positivo": 719,
+        "neutro": 15,
+        "negativo": 266,
+        "positivo_pct": 71.9,
+        "neutro_pct": 1.5,
+        "negativo_pct": 26.6
+      },
+      "topicos": [
+        {
+          "topico_id": 0,
+          "palavras_chave": [
+            "garantiu",
+            "garantiu ninguém",
+            "ninguém",
+            "super",
+            "passarelas",
+            "muita",
+            "tempo",
+            "10"
+          ],
+          "frequencia": 154,
+          "media_nota": 3.99,
+          "sentimentos": {
+            "positivo": 107,
+            "negativo": 47
+          }
+        },
+        {
+          "topico_id": 1,
+          "palavras_chave": [
+            "amontoado",
+            "turistas",
+            "correria",
+            "guia",
+            "gente",
+            "segurança",
+            "falta",
+            "fila"
+          ],
+          "frequencia": 55,
+          "media_nota": 2.97,
+          "sentimentos": {
+            "negativo": 48,
+            "positivo": 6,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 2,
+          "palavras_chave": [
+            "achei",
+            "volta",
+            "educação",
+            "guia",
+            "técnico",
+            "conhecimento técnico",
+            "conhecimento",
+            "monitores"
+          ],
+          "frequencia": 36,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 28,
+            "negativo": 7,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 3,
+          "palavras_chave": [
+            "trecho",
+            "usina",
+            "iluminação",
+            "turista",
+            "banheiros",
+            "tempo espera",
+            "sabão",
+            "cheirosos"
+          ],
+          "frequencia": 30,
+          "media_nota": 4.11,
+          "sentimentos": {
+            "positivo": 29,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 4,
+          "palavras_chave": [
+            "ajudou",
+            "bebê",
+            "carrinhos",
+            "carrinhos bebê",
+            "educado",
+            "sorrindo",
+            "10",
+            "nota 10"
+          ],
+          "frequencia": 24,
+          "media_nota": 4.04,
+          "sentimentos": {
+            "positivo": 24
+          }
+        },
+        {
+          "topico_id": 5,
+          "palavras_chave": [
+            "maravilhosa",
+            "fila dupla",
+            "dupla",
+            "constante",
+            "sinalização",
+            "fila",
+            "raiva",
+            "top"
+          ],
+          "frequencia": 23,
+          "media_nota": 4.12,
+          "sentimentos": {
+            "positivo": 15,
+            "negativo": 8
+          }
+        },
+        {
+          "topico_id": 6,
+          "palavras_chave": [
+            "tivemos",
+            "nada",
+            "fotos",
+            "nem",
+            "guia",
+            "pressa",
+            "gente",
+            "pontual"
+          ],
+          "frequencia": 23,
+          "media_nota": 3.96,
+          "sentimentos": {
+            "negativo": 22,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 7,
+          "palavras_chave": [
+            "má vontade",
+            "má",
+            "vontade",
+            "sorrindo",
+            "equipe",
+            "incrível",
+            "nenhuma",
+            "cara"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.2,
+          "sentimentos": {
+            "negativo": 19,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 8,
+          "palavras_chave": [
+            "tumulto",
+            "elevador",
+            "organização impecável",
+            "pessoas",
+            "bebedouros",
+            "organização",
+            "evitou",
+            "fluxo"
+          ],
+          "frequencia": 20,
+          "media_nota": 4.22,
+          "sentimentos": {
+            "positivo": 19,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 9,
+          "palavras_chave": [
+            "guardas",
+            "trajeto",
+            "vigilância",
+            "família",
+            "trilhas",
+            "desorientação",
+            "ziguezague",
+            "sinalização clara"
+          ],
+          "frequencia": 19,
+          "media_nota": 4.16,
+          "sentimentos": {
+            "positivo": 19
+          }
+        },
+        {
+          "topico_id": 10,
+          "palavras_chave": [
+            "baldeação ônibus",
+            "baldeação",
+            "conferência",
+            "conferência qr",
+            "perfeitamente",
+            "ônibus",
+            "qr code",
+            "qr"
+          ],
+          "frequencia": 18,
+          "media_nota": 3.94,
+          "sentimentos": {
+            "positivo": 18
+          }
+        },
+        {
+          "topico_id": 11,
+          "palavras_chave": [
+            "zero",
+            "tempo espera",
+            "feliz ausência",
+            "perfeita",
+            "organização impecável",
+            "espera",
+            "organização",
+            "confusão"
+          ],
+          "frequencia": 18,
+          "media_nota": 3.95,
+          "sentimentos": {
+            "negativo": 9,
+            "positivo": 8,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 12,
+          "palavras_chave": [
+            "chão",
+            "deixado",
+            "nenhum",
+            "impecável",
+            "arrependi",
+            "valeu pena",
+            "pena",
+            "beleza"
+          ],
+          "frequencia": 18,
+          "media_nota": 4.11,
+          "sentimentos": {
+            "negativo": 17,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 13,
+          "palavras_chave": [
+            "mirantes",
+            "confiança",
+            "total",
+            "proteção",
+            "grades",
+            "muita",
+            "excelente",
+            "fila"
+          ],
+          "frequencia": 17,
+          "media_nota": 4.14,
+          "sentimentos": {
+            "positivo": 17
+          }
+        },
+        {
+          "topico_id": 14,
+          "palavras_chave": [
+            "sabão",
+            "cheirosos",
+            "papel",
+            "banheiros",
+            "tempo",
+            "mano",
+            "valeu pena",
+            "raiva"
+          ],
+          "frequencia": 17,
+          "media_nota": 4.31,
+          "sentimentos": {
+            "positivo": 16,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 15,
+          "palavras_chave": [
+            "seguro",
+            "senti",
+            "raiva",
+            "amei",
+            "cara",
+            "",
+            "",
+            ""
+          ],
+          "frequencia": 17,
+          "media_nota": 4.33,
+          "sentimentos": {
+            "positivo": 16,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 16,
+          "palavras_chave": [
+            "estrutura",
+            "turistas",
+            "proteção",
+            "impecável",
+            "olha",
+            "poxa",
+            "sério",
+            "cara"
+          ],
+          "frequencia": 17,
+          "media_nota": 4.02,
+          "sentimentos": {
+            "positivo": 17
+          }
+        },
+        {
+          "topico_id": 17,
+          "palavras_chave": [
+            "ônibus",
+            "despacho",
+            "fluxo",
+            "passeio",
+            "agilidade",
+            "rapidez",
+            "constante",
+            "fila"
+          ],
+          "frequencia": 17,
+          "media_nota": 4.12,
+          "sentimentos": {
+            "positivo": 9,
+            "neutro": 6,
+            "negativo": 2
+          }
+        },
+        {
+          "topico_id": 18,
+          "palavras_chave": [
+            "compensa",
+            "valor",
+            "justíssimo",
+            "pacote",
+            "cobrado",
+            "visual",
+            "recompensa visual",
+            "recompensa"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.25,
+          "sentimentos": {
+            "positivo": 16
+          }
+        },
+        {
+          "topico_id": 19,
+          "palavras_chave": [
+            "sujeira",
+            "passarelas",
+            "limpeza",
+            "constante",
+            "super",
+            "escorregão",
+            "volta",
+            "enorme"
+          ],
+          "frequencia": 16,
+          "media_nota": 3.46,
+          "sentimentos": {
+            "positivo": 9,
+            "negativo": 7
+          }
+        },
+        {
+          "topico_id": 20,
+          "palavras_chave": [
+            "nenhuma lixeira",
+            "lixeira transbordando",
+            "transbordando",
+            "lixeira",
+            "eficiente",
+            "lixo",
+            "mirante",
+            "nenhuma"
+          ],
+          "frequencia": 16,
+          "media_nota": 4.13,
+          "sentimentos": {
+            "positivo": 16
+          }
+        },
+        {
+          "topico_id": 21,
+          "palavras_chave": [
+            "parque",
+            "fluxo",
+            "constante",
+            "voltei",
+            "voltei feliz",
+            "feliz",
+            "recomendo",
+            "top demais"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.0,
+          "sentimentos": {
+            "positivo": 15
+          }
+        },
+        {
+          "topico_id": 22,
+          "palavras_chave": [
+            "enorme",
+            "trilha",
+            "ausência",
+            "sujeira",
+            "parque",
+            "sério",
+            "beleza",
+            "feliz ausência"
+          ],
+          "frequencia": 15,
+          "media_nota": 4.25,
+          "sentimentos": {
+            "positivo": 15
+          }
+        },
+        {
+          "topico_id": 23,
+          "palavras_chave": [
+            "caminhada",
+            "ritmo",
+            "perfeito",
+            "rapidez",
+            "valeu pena",
+            "pena",
+            "valeu",
+            "nota 10"
+          ],
+          "frequencia": 14,
+          "media_nota": 3.98,
+          "sentimentos": {
+            "positivo": 11,
+            "negativo": 3
+          }
+        },
+        {
+          "topico_id": 24,
+          "palavras_chave": [
+            "técnico",
+            "conhecimento técnico",
+            "conhecimento",
+            "nenhuma",
+            "voltei",
+            "voltei feliz",
+            "top demais",
+            "top"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.0,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 25,
+          "palavras_chave": [
+            "justíssimo",
+            "cobrado",
+            "limpeza",
+            "recomendo",
+            "arrependi",
+            "poxa",
+            "",
+            ""
+          ],
+          "frequencia": 13,
+          "media_nota": 4.18,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 26,
+          "palavras_chave": [
+            "experiência",
+            "teve",
+            "pressa",
+            "senti",
+            "nenhuma",
+            "tempo",
+            "cara",
+            "raiva"
+          ],
+          "frequencia": 13,
+          "media_nota": 3.92,
+          "sentimentos": {
+            "positivo": 12,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 27,
+          "palavras_chave": [
+            "funcionários",
+            "nenhuma",
+            "tirar",
+            "guia",
+            "top demais",
+            "top",
+            "demais",
+            "mano"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.0,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 28,
+          "palavras_chave": [
+            "nada",
+            "maravilhosa",
+            "nota 10",
+            "10",
+            "nota",
+            "mano",
+            "olha",
+            "má vontade"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.26,
+          "sentimentos": {
+            "negativo": 13
+          }
+        },
+        {
+          "topico_id": 29,
+          "palavras_chave": [
+            "fura fila",
+            "fura",
+            "fila",
+            "voltei",
+            "voltei feliz",
+            "feliz",
+            "valeu pena",
+            "pena"
+          ],
+          "frequencia": 13,
+          "media_nota": 4.15,
+          "sentimentos": {
+            "positivo": 13
+          }
+        },
+        {
+          "topico_id": 30,
+          "palavras_chave": [
+            "centro",
+            "centro visitantes",
+            "visitantes",
+            "fiquei",
+            "rapidez",
+            "demora",
+            "causou",
+            "ingresso"
+          ],
+          "frequencia": 12,
+          "media_nota": 3.69,
+          "sentimentos": {
+            "positivo": 7,
+            "negativo": 5
+          }
+        },
+        {
+          "topico_id": 31,
+          "palavras_chave": [
+            "monitor",
+            "fomos",
+            "extrema",
+            "educação",
+            "beleza",
+            "voltei",
+            "voltei feliz",
+            "feliz"
+          ],
+          "frequencia": 12,
+          "media_nota": 3.86,
+          "sentimentos": {
+            "negativo": 11,
+            "positivo": 1
+          }
+        },
+        {
+          "topico_id": 32,
+          "palavras_chave": [
+            "aglomeração",
+            "evitou aglomeração",
+            "controle",
+            "embarque",
+            "evitou",
+            "excelente",
+            "fantástico",
+            "amontoado"
+          ],
+          "frequencia": 12,
+          "media_nota": 3.92,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 33,
+          "palavras_chave": [
+            "rapidamente",
+            "deixado",
+            "lixo",
+            "cara",
+            "top",
+            "top demais",
+            "arrependi",
+            "demais"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.08,
+          "sentimentos": {
+            "negativo": 11,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 34,
+          "palavras_chave": [
+            "propaganda",
+            "custo benefício",
+            "custo",
+            "benefício",
+            "bah",
+            "mano",
+            "olha",
+            "valor"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.08,
+          "sentimentos": {
+            "positivo": 11,
+            "negativo": 1
+          }
+        },
+        {
+          "topico_id": 35,
+          "palavras_chave": [
+            "ingresso",
+            "exploração",
+            "recompensa visual",
+            "recompensa",
+            "visual",
+            "beleza",
+            "mano",
+            "recomendo"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "negativo": 12
+          }
+        },
+        {
+          "topico_id": 36,
+          "palavras_chave": [
+            "monitores",
+            "valeu pena",
+            "raiva",
+            "pena",
+            "valeu",
+            "",
+            "",
+            ""
+          ],
+          "frequencia": 12,
+          "media_nota": 4.17,
+          "sentimentos": {
+            "positivo": 12
+          }
+        },
+        {
+          "topico_id": 37,
+          "palavras_chave": [
+            "correria",
+            "ritmo",
+            "pressa",
+            "excelente",
+            "tempo",
+            "perfeito",
+            "intervalo veículos",
+            "veículos"
+          ],
+          "frequencia": 12,
+          "media_nota": 4.2,
+          "sentimentos": {
+            "positivo": 11,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 38,
+          "palavras_chave": [
+            "sistema",
+            "centro visitantes",
+            "centro",
+            "visitantes",
+            "controle",
+            "burocracia",
+            "maravilhoso",
+            "arrependi"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.24,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 39,
+          "palavras_chave": [
+            "triagem",
+            "idosos",
+            "agilidade",
+            "segurança",
+            "ajudou",
+            "equipe",
+            "mano",
+            "voltei"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.3,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 40,
+          "palavras_chave": [
+            "curto",
+            "intervalo",
+            "infinita",
+            "espera infinita",
+            "transporte",
+            "espera",
+            "super",
+            "amei"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.36,
+          "sentimentos": {
+            "negativo": 10,
+            "neutro": 1
+          }
+        },
+        {
+          "topico_id": 41,
+          "palavras_chave": [
+            "entrada",
+            "valeu",
+            "pacote",
+            "olha",
+            "top demais",
+            "top",
+            "demais",
+            "cara"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.54,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 42,
+          "palavras_chave": [
+            "confiança",
+            "muita",
+            "poxa",
+            "nota 10",
+            "10",
+            "nota",
+            "",
+            ""
+          ],
+          "frequencia": 11,
+          "media_nota": 4.24,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 43,
+          "palavras_chave": [
+            "tirar",
+            "calma",
+            "maravilhoso",
+            "fotos",
+            "muita",
+            "tempo",
+            "recomendo",
+            "fomos"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.06,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 44,
+          "palavras_chave": [
+            "sinalização clara",
+            "clara",
+            "perfeitamente",
+            "sinalização",
+            "evitou",
+            "amei",
+            "recomendo",
+            "arrependi"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.27,
+          "sentimentos": {
+            "positivo": 11
+          }
+        },
+        {
+          "topico_id": 45,
+          "palavras_chave": [
+            "garantiu ninguém",
+            "garantiu",
+            "passarelas",
+            "ninguém",
+            "risco",
+            "escorregão",
+            "voltei",
+            "voltei feliz"
+          ],
+          "frequencia": 11,
+          "media_nota": 4.3,
+          "sentimentos": {
+            "negativo": 6,
+            "positivo": 5
+          }
+        }
+      ]
+    }
+  ]
+}
