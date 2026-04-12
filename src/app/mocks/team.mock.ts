@@ -7,8 +7,6 @@ export const LOCATIONS: TeamLocation[] = [
   { id: 'itaipu_iluminada',  label: 'Itaipu Iluminada',   maxCapacity: 5, expectedFlow: 2800, flowLevel: 'médio' },
   { id: 'itaipu_especial',   label: 'Itaipu Especial',    maxCapacity: 4, expectedFlow: 1500, flowLevel: 'baixo' },
   { id: 'refugio_biologico', label: 'Refúgio Biológico',  maxCapacity: 6, expectedFlow: 3100, flowLevel: 'médio' },
-  { id: 'aeroporto',         label: 'Aeroporto',          maxCapacity: 4, expectedFlow: 1800, flowLevel: 'médio' },
-  { id: 'rodoviaria',        label: 'Rodoviária',         maxCapacity: 3, expectedFlow:  950, flowLevel: 'baixo' },
 ];
 
 // ─── Colaboradores ──────────────────────────────────────────────────────────
@@ -30,14 +28,10 @@ export const MEMBERS: TeamMember[] = [
   { id: 'M09', name: 'Juliana Mendes',   role: 'operacional', status: 'alocado', locationId: 'refugio_biologico', languages: ['PT'] },
   { id: 'M10', name: 'Lucas Ferreira',   role: 'segurança',   status: 'alocado', locationId: 'refugio_biologico', languages: ['PT'] },
 
-  // Alocados — Aeroporto (2/4)
-  { id: 'M11', name: 'Mariana Ribeiro',  role: 'atendimento', status: 'alocado', locationId: 'aeroporto',         languages: ['PT', 'EN', 'ES'] },
-  { id: 'M12', name: 'Nathan Oliveira',  role: 'operacional', status: 'alocado', locationId: 'aeroporto',         languages: ['PT'] },
-
-  // Alocados — Rodoviária (1/3)
-  { id: 'M13', name: 'Patrícia Dias',    role: 'atendimento', status: 'alocado', locationId: 'rodoviaria',        languages: ['PT', 'ES'] },
-
-  // Disponíveis (3)
+  // Disponíveis (6)
+  { id: 'M11', name: 'Mariana Ribeiro',  role: 'atendimento', status: 'disponivel', languages: ['PT', 'EN', 'ES'] },
+  { id: 'M12', name: 'Nathan Oliveira',  role: 'operacional', status: 'disponivel', languages: ['PT'] },
+  { id: 'M13', name: 'Patrícia Dias',    role: 'atendimento', status: 'disponivel', languages: ['PT', 'ES'] },
   { id: 'M14', name: 'Rafael Borges',    role: 'guia',        status: 'disponivel', languages: ['PT', 'EN'] },
   { id: 'M15', name: 'Sofia Campos',     role: 'operacional', status: 'disponivel', languages: ['PT'] },
   { id: 'M16', name: 'Thiago Nunes',     role: 'segurança',   status: 'disponivel', languages: ['PT', 'EN'] },
