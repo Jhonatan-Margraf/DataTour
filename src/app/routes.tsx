@@ -8,8 +8,6 @@ import { DataSourcesPage } from "./pages/DataSourcesPage";
 import { ProfilePage } from "./pages/ProfilePage";
 import { TeamPage } from "./pages/TeamPage";
 
-// LOGIN DESATIVADO — rota preservada mas não acessível pelo fluxo normal
-// Para reativar: remova o redirect abaixo e restaure o handleLogout no DashboardLayout
 
 export const router = createBrowserRouter([
   {

@@ -33,7 +33,7 @@ export function LoginPage() {
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ delay: 0.2, type: "spring", stiffness: 200 }}
-            className="inline-flex items-center justify-center w-40 h-40 mb-2 bg-white rounded-2xl !bg-transparent"
+            className="inline-flex items-center justify-center w-40 h-40 mb-2 !bg-transparent"
           >
             <img src="/logo.png" alt="Data Tour" className="w-30 h-30 object-contain" />
           </motion.div>
